@@ -1,0 +1,497 @@
+candidate_id,gender,age,exp_years,exp_note,skill_sql_literal,skill_clickhouse,skill_python,skill_bi,skill_stats_ab,sql_from_comment,skill_sql,english_cefr,english_rank,test_score,test_note,interview_score,interview_note,salary_min_kzt,salary_max_kzt,salary_note,salary_in_usd,applied_date,applied_note,cv_gap_reason,hired_before,source_channel,hr_comment,export_block,reapplied,passes_all_must_haves,weighted_score,final_pick
+C1000,M,41.0,6.0,ok,True,False,True,True,False,False,True,C1,5.0,59.0,ok,3.0,qualitative,860000.0,860000.0,ok,False,2026-10-02,ok(resolved by application window),gap 2021,0.0,instagram,,1,False,False,,False
+C1001,F,,6.0,ok,False,False,True,True,False,False,False,B2,4.0,,missing,1.0,ok,870000.0,870000.0,ok,False,2026-10-03,ok(resolved by application window),армия,0.0,telegram,,1,False,False,,False
+C1002,F,24.0,2.0,ok,False,True,True,True,False,False,False,A2,2.0,75.0,ok,3.0,ok,540000.0,540000.0,ok,False,2026-09-02,ok,,0.0,instagram,,1,False,False,,False
+C1003,F,25.0,3.0,ok,True,False,True,True,True,True,True,B2,4.0,81.0,ok,,missing,510000.0,510000.0,ok,True,2026-09-27,ok,,0.0,company site,"skills: SQL, Python",1,False,False,,False
+C1004,M,39.0,10.0,ok,False,False,True,True,False,False,False,B2,4.0,69.0,ok,3.0,qualitative,1137500.0,1137500.0,ok,True,2026-10-12,ok,,0.0,career fair,см. вложение,2,False,False,,False
+C1005,F,26.0,,impossible,False,False,False,True,True,False,False,B2,4.0,59.0,ok,3.0,ok,300000.0,450000.0,ok,False,2026-10-21,ok,,0.0,linkedin,,2,False,False,,False
+C1006,M,29.0,7.0,ok,True,False,False,True,True,False,True,C1,5.0,51.0,ok,2.0,ok,930000.0,930000.0,ok,False,2026-10-18,ok,,0.0,hh.kz,,2,False,False,,False
+C1007,M,31.0,3.0,ok,False,True,False,True,False,False,False,A2,2.0,65.0,ok,4.0,ok,680000.0,680000.0,ok,False,2026-09-07,ok(resolved by application window),болезнь,0.0,telegram,,2,False,False,,False
+C1008,M,41.0,4.0,ok,False,False,True,True,True,False,False,C1,5.0,56.0,ok,4.0,ok,740000.0,740000.0,ok,False,2026-09-22,ok,travel 1 yr,0.0,instagram,,2,False,False,,False
+C1009,unknown,34.0,5.5,ok,False,False,False,True,True,False,False,C1,5.0,56.0,ok,3.0,ok,840000.0,840000.0,ok,False,2026-09-27,ok,travel 1 yr,,instagram,см. вложение,2,False,False,,False
+C1010,M,34.0,5.0,ok,False,True,False,True,True,False,False,B1*,3.5,75.0,ok,,missing,910000.0,910000.0,ok,False,2026-09-25,ok,,1.0,hh.kz,,1,False,False,,False
+C1011,M,35.0,1.0,ok,False,False,False,False,True,False,False,C1,5.0,37.0,ok,3.0,ok,510000.0,510000.0,ok,False,2026-09-10,ambiguous(dd/mm assumed),,,linkedin,,2,False,False,,False
+C1012,M,33.0,8.5,ok,False,False,False,True,True,False,False,C1,5.0,57.0,ok,2.0,ok,950000.0,950000.0,ok,False,2026-09-18,ok,,0.0,telegram,,2,False,False,,False
+C1013,M,33.0,6.0,ok,False,False,False,True,True,False,False,C2,6.0,56.0,ok,3.0,ok,,,negotiable,False,2026-09-21,ok,болезнь,,telegram,см. вложение,2,False,False,,False
+C1014,M,32.0,4.0,ok,True,False,False,True,True,False,True,B1,3.0,64.0,ok,2.0,ok,700000.0,700000.0,ok,False,2026-09-17,ok,болезнь,1.0,hh.kz,см. вложение,2,False,False,,False
+C1015,M,22.0,2.0,ok,False,False,True,False,False,False,False,A2,2.0,69.0,ok,3.0,qualitative,690000.0,690000.0,ok,False,2026-10-12,ok,,0.0,linkedin,см. вложение,2,False,False,,False
+C1016,M,45.0,12.0,ok,False,False,False,False,False,False,False,B2,4.0,61.0,ok,2.0,ok,,,negotiable,False,2026-10-03,ok,учеба за границей,0.0,telegram,,2,False,False,,False
+C1017,M,30.0,2.0,ok,False,False,False,True,False,False,False,B2,4.0,,impossible,4.0,ok,617500.0,617500.0,ok,True,2026-09-26,ok,декрет 2022-2023,0.0,career fair,см. вложение,2,False,False,,False
+C1018,F,34.0,3.0,ok,False,True,False,False,True,False,False,B2,4.0,39.0,ok,2.0,qualitative,640000.0,640000.0,ok,False,2026-09-02,ok,учеба за границей,0.0,linkedin,,1,False,False,,False
+C1019,M,27.0,2.0,ok,False,False,True,True,True,False,False,B1*,3.5,55.0,ok,4.0,ok,560000.0,560000.0,ok,False,2026-09-16,ok,gap 2021,0.0,hh.kz,,1,False,False,,False
+C1020,M,40.0,10.0,ok,False,False,True,True,True,False,False,B1,3.0,50.0,ok,3.0,ok,,,negotiable,False,2026-10-19,ok,болезнь,1.0,telegram,,2,False,False,,False
+C1021,F,45.0,8.0,ok,True,True,True,True,True,False,True,A2,2.0,66.0,ok,4.0,ok,990000.0,990000.0,ok,False,2026-09-13,ok,,0.0,enbek.kz,,1,False,False,,False
+C1022,M,,3.0,ok,False,False,False,True,False,False,False,B2,4.0,55.0,ok,2.0,ok,620000.0,620000.0,ok,False,2026-09-09,ok,,0.0,linkedin,,2,False,False,,False
+C1023,F,40.0,3.0,ok,False,False,False,True,True,False,False,B2,4.0,34.0,ok,1.0,ok,600000.0,600000.0,ok,False,2026-10-10,ok,,1.0,hh.kz,,1,False,False,,False
+C1024,F,34.0,7.0,ok,False,True,True,True,True,False,False,B1*,3.5,71.0,ok,3.0,qualitative,950000.0,950000.0,ok,False,2026-09-28,ok,gap 2021,0.0,enbek.kz,,2,False,False,,False
+C1025,M,28.0,7.0,ok,False,False,True,True,True,False,False,C2,6.0,55.0,ok,4.0,ok,880000.0,880000.0,ok,False,2026-09-15,ok,декрет 2022-2023,1.0,career fair,,1,False,False,,False
+C1026,unknown,39.0,2.0,ok,True,False,True,False,True,False,True,B1*,3.5,67.0,ok,,missing,670000.0,670000.0,ok,False,2026-09-07,ok(resolved by application window),,0.0,enbek.kz,см. вложение,2,False,False,,False
+C1027,F,,1.0,ok,False,False,False,True,True,False,False,C1,5.0,50.0,ok,,missing,500000.0,500000.0,ok,False,2026-09-08,ok(resolved by application window),,0.0,instagram,,2,False,False,,False
+C1028,M,41.0,2.0,ok,False,False,False,False,True,False,False,B1*,3.5,61.0,ok,3.0,ok,650000.0,650000.0,ok,False,2026-09-10,ok,gap 2021,1.0,linkedin,см. вложение,2,False,False,,False
+C1029,F,29.0,0.0,ok,False,False,False,True,False,False,False,B1*,3.5,96.0,ok,5.0,ok,430000.0,430000.0,ok,False,2026-10-05,ok(resolved by application window),,0.0,career fair,,2,False,False,,False
+C1030,F,36.0,12.0,ok,True,False,False,True,True,False,True,B1,3.0,76.0,ok,4.0,qualitative,1310000.0,1310000.0,ok,False,2026-09-14,ok,учеба за границей,1.0,hh.kz,,1,False,False,,False
+C1031,M,28.0,6.0,ok,False,False,False,True,True,False,False,B1*,3.5,53.0,ok,4.0,ok,800000.0,800000.0,ok,False,2026-10-18,ok,,0.0,hh.kz,offer sent?,1,False,False,,False
+C1032,M,32.0,2.0,ok,False,True,True,True,True,False,False,B1*,3.5,52.0,ok,4.0,ok,570000.0,570000.0,ok,False,2026-09-16,ok,,1.0,enbek.kz,,1,False,False,,False
+C1033,M,35.0,3.0,ok,True,True,False,False,False,False,True,B2,4.0,68.0,ok,3.0,ok,627500.0,627500.0,ok,True,2026-09-06,ok(resolved by application window),болезнь,1.0,hh.kz,см. вложение,2,False,False,,False
+C1034,M,31.0,10.0,ok,False,False,False,True,False,False,False,A2,2.0,48.0,ok,3.0,ok,1110000.0,1110000.0,ok,False,2026-09-21,ok,,0.0,enbek.kz,см. вложение,2,False,False,,False
+C1035,F,21.0,0.0,ok,False,False,False,True,True,False,False,C1,5.0,52.0,ok,3.0,ok,270000.0,270000.0,ok,False,2026-09-23,ok,maternity leave 2022,1.0,referral,,1,False,False,,False
+C1036,M,26.0,5.0,ok,True,False,True,False,True,False,True,C1,5.0,,missing,4.0,qualitative,870000.0,870000.0,ok,False,2026-09-18,ok,болезнь,0.0,enbek.kz,см. вложение,2,False,False,,False
+C1037,F,41.0,1.0,ok,False,True,True,False,True,False,False,B1*,3.5,,missing,,missing,470000.0,470000.0,ok,False,2026-10-14,ok,travel 1 yr,,referral,,2,False,False,,False
+C1038,F,45.0,3.0,ok,False,True,True,False,False,False,False,,,61.0,ok,3.0,qualitative,510000.0,510000.0,ok,True,2026-09-13,ok,travel 1 yr,,company site,,2,False,False,,False
+C1039,unknown,,3.0,ok,False,False,False,True,True,False,False,B2,4.0,69.0,ok,4.0,ok,,,negotiable,False,2026-09-21,ok,gap 2021,1.0,referral,,2,False,False,,False
+C1040,F,39.0,7.0,ok,False,False,False,True,False,False,False,C2,6.0,69.0,ok,3.0,ok,900000.0,900000.0,ok,False,2026-10-21,ok,учеба за границей,0.0,linkedin,см. вложение,2,False,False,,False
+C1041,M,,10.0,ok,False,False,False,False,False,False,False,B1*,3.5,86.0,ok,5.0,ok,1070000.0,1070000.0,ok,False,2026-10-11,ok,,0.0,linkedin,,2,False,False,,False
+C1042,M,23.0,2.0,ok,True,False,False,True,True,False,True,C1,5.0,,missing,,missing,549000.0,549000.0,ok,True,2026-09-13,ok,gap 2021,1.0,career fair,,1,False,False,,False
+C1043,M,28.0,1.0,ok,True,False,False,False,True,False,True,B2,4.0,80.0,ok,3.0,ok,,,negotiable,False,2026-10-11,ok,болезнь,0.0,hh.kz,,2,False,False,,False
+C1044,M,43.0,1.5,ok,False,False,False,False,True,False,False,,,48.0,ok,,missing,380000.0,380000.0,ok,False,2026-09-18,ok,,0.0,career fair,,1,False,False,,False
+C1045,M,42.0,8.0,ok,True,True,True,False,True,False,True,B1*,3.5,67.0,ok,4.0,ok,830000.0,980000.0,ok,False,2026-09-20,ok,,1.0,hh.kz,,1,False,False,,False
+C1046,M,38.0,4.0,ok,False,False,False,True,True,False,False,C2,6.0,56.0,ok,1.0,ok,640000.0,640000.0,ok,False,2026-09-28,ok,декрет 2022-2023,1.0,instagram,,1,False,False,,False
+C1047,M,22.0,1.5,ok,False,False,False,False,True,False,False,C1,5.0,90.0,ok,,missing,480000.0,480000.0,ok,False,2026-10-04,ok(resolved by application window),учеба за границей,1.0,enbek.kz,,1,False,False,,False
+C1048,M,46.0,6.0,ok,False,False,True,True,True,False,False,B1*,3.5,55.0,ok,2.0,ok,760000.0,760000.0,ok,False,2026-09-07,ok,,0.0,enbek.kz,см. вложение,2,False,False,,False
+C1049,M,24.0,2.5,ok,False,True,False,False,True,False,False,A2,2.0,49.0,ok,2.0,qualitative,590000.0,590000.0,ok,False,2026-09-05,ok(resolved by application window),учеба за границей,1.0,hh.kz,см. вложение,2,False,False,,False
+C1050,M,28.0,3.0,ok,True,True,True,False,True,False,True,B1,3.0,62.0,ok,3.0,ok,480500.0,480500.0,ok,True,2026-10-03,ok,армия,1.0,linkedin,см. вложение,2,False,False,,False
+C1051,F,44.0,12.0,ok,False,False,False,True,True,False,False,B2,4.0,77.0,ok,4.0,ok,1230000.0,1230000.0,ok,False,2026-10-11,ok(resolved by application window),,1.0,referral,,2,False,False,,False
+C1052,M,35.0,12.0,ok,False,False,False,True,True,False,False,A2,2.0,58.0,ok,3.0,ok,1410000.0,1410000.0,ok,False,2026-10-04,ok,декрет 2022-2023,,referral,см. вложение,2,False,False,,False
+C1053,M,24.0,1.0,ok,True,False,False,True,False,False,True,B1*,3.5,60.0,ok,4.0,ok,,,negotiable,False,2026-09-01,ok,,1.0,telegram,,1,False,False,,False
+C1054,F,25.0,3.0,ok,False,True,True,True,True,False,False,B2,4.0,,missing,4.0,qualitative,650000.0,650000.0,ok,False,2026-09-21,ok,,0.0,company site,см. вложение,2,False,False,,False
+C1055,unknown,28.0,2.0,ok,False,False,True,True,True,False,False,C2,6.0,64.0,ok,4.0,ok,,,negotiable,False,2026-10-17,ok,,0.0,telegram,,1,False,False,,False
+C1056,M,35.0,3.0,ok,True,False,False,True,True,False,True,B1,3.0,92.0,ok,4.0,ok,770000.0,770000.0,ok,False,2026-09-17,ok,декрет 2022-2023,0.0,referral,,1,False,False,,False
+C1057,M,38.0,7.0,ok,False,False,False,True,True,False,False,B2,4.0,68.0,ok,2.0,ok,950000.0,950000.0,ok,False,2026-09-17,ok,travel 1 yr,1.0,enbek.kz,,1,False,False,,False
+C1058,M,39.0,12.0,ok,False,False,False,False,True,False,False,B2,4.0,62.0,ok,,missing,,,impossible,False,2026-09-23,ok,gap 2021,,enbek.kz,,2,False,False,,False
+C1059,M,23.0,1.0,ok,True,True,True,True,False,False,True,A2,2.0,82.0,ok,4.0,ok,590000.0,590000.0,ok,False,2026-09-01,ok,,1.0,referral,,1,False,False,,False
+C1060,F,25.0,4.0,ok,True,False,False,False,False,False,True,C1,5.0,44.0,ok,2.0,qualitative,568500.0,568500.0,ok,True,2026-10-08,ok,gap 2021,0.0,hh.kz,,1,False,False,,False
+C1061,M,40.0,4.0,ok,False,False,False,True,True,False,False,B2,4.0,,missing,4.0,ok,640000.0,640000.0,ok,False,2026-10-16,ok,,1.0,career fair,,1,False,False,,False
+C1062,M,23.0,2.5,ok,False,False,False,True,True,False,False,B2,4.0,48.0,ok,,missing,610000.0,610000.0,ok,False,2026-10-07,ok(resolved by application window),gap 2021,0.0,company site,см. вложение,2,False,False,,False
+C1063,M,44.0,,missing,False,False,True,False,False,False,False,B1*,3.5,71.0,ok,4.0,qualitative,360000.0,510000.0,ok,False,2026-09-22,ok,travel 1 yr,0.0,referral,,1,False,False,,False
+C1064,F,42.0,8.0,ok,False,False,False,True,True,False,False,B1,3.0,76.0,ok,4.0,qualitative,1010000.0,1010000.0,ok,False,2026-10-06,ok,,,telegram,,1,False,False,,False
+C1065,M,46.0,1.0,ok,True,False,True,True,True,False,True,B2,4.0,61.0,ok,4.0,ok,420000.0,420000.0,ok,False,2026-09-06,ok,,1.0,telegram,,1,False,False,,False
+C1066,F,45.0,3.0,ok,False,False,False,False,True,False,False,,,70.0,ok,,missing,560000.0,560000.0,ok,False,2026-09-01,ok,болезнь,0.0,linkedin,,1,False,False,,False
+C1067,M,28.0,3.0,ok,False,True,False,True,True,False,False,B2,4.0,56.0,ok,3.0,ok,560000.0,560000.0,ok,False,2026-09-23,ok,travel 1 yr,1.0,hh.kz,,2,False,False,,False
+C1068,F,30.0,2.0,ok,True,False,False,True,False,False,True,B1,3.0,62.0,ok,4.0,qualitative,540000.0,540000.0,ok,False,2026-10-19,ok,maternity leave 2022,0.0,linkedin,,1,False,False,,False
+C1069,F,23.0,2.0,ok,False,False,False,False,False,False,False,C1,5.0,69.0,ok,4.0,qualitative,540000.0,540000.0,ok,False,2026-09-08,ok(resolved by application window),учеба за границей,,enbek.kz,,1,False,False,,False
+C1071,unknown,31.0,5.0,ok,False,False,True,True,True,False,False,C1,5.0,82.0,ok,3.0,ok,660000.0,660000.0,ok,False,2026-09-30,ok,,0.0,hh.kz,,2,False,False,,False
+C1072,M,32.0,7.0,ok,True,False,False,False,True,False,True,C1,5.0,61.0,ok,3.0,ok,820000.0,820000.0,ok,False,2026-09-13,ok,,,instagram,,1,False,False,,False
+C1073,F,28.0,3.0,ok,False,False,True,True,True,False,False,B1*,3.5,,missing,4.0,ok,550000.0,700000.0,ok,False,2026-10-16,ok,,0.0,telegram,,2,False,False,,False
+C1074,M,30.0,9.5,ok,False,False,True,False,True,False,False,B1*,3.5,,missing,4.0,qualitative,1010000.0,1010000.0,ok,False,2026-10-14,ok,декрет 2022-2023,0.0,linkedin,,2,False,False,,False
+C1075,F,29.0,1.0,ok,False,False,False,True,False,False,False,B2,4.0,68.0,ok,3.0,ok,410000.0,410000.0,ok,False,2026-09-15,ok,,1.0,linkedin,,1,False,False,,False
+C1076,M,43.0,1.0,ok,False,True,False,False,True,False,False,B2,4.0,55.0,ok,2.0,ok,460000.0,460000.0,ok,False,2026-09-13,ok,учеба за границей,1.0,telegram,"см. письмо от 12.10
+perezvonit'",1,False,False,,False
+C1077,M,24.0,1.0,ok,False,True,True,False,False,False,False,,,67.0,ok,4.0,ok,,,impossible,False,2026-10-06,ok(resolved by application window),декрет 2022-2023,1.0,telegram,,1,False,False,,False
+C1078,M,23.0,1.0,ok,False,False,False,True,True,False,False,B2,4.0,48.0,ok,3.0,ok,370000.0,370000.0,ok,False,2026-09-30,ok,,1.0,referral,,2,False,False,,False
+C1079,F,,1.5,ok,False,True,True,True,False,False,False,,,70.0,ok,3.0,ok,540000.0,540000.0,ok,False,2026-09-03,ok,декрет 2023-2024,,enbek.kz,,2,False,False,,False
+C1080,F,39.0,,missing,False,False,False,True,True,False,False,B1*,3.5,82.0,ok,5.0,ok,340000.0,340000.0,ok,False,2026-09-24,ok,travel 1 yr,0.0,company site,,1,False,False,,False
+C1081,M,45.0,3.0,ok,False,True,False,False,True,False,False,B1,3.0,75.0,ok,5.0,qualitative,600000.0,600000.0,ok,False,2026-09-03,ok(resolved by application window),,1.0,company site,,1,False,False,,False
+C1082,F,39.0,3.0,ok,False,True,False,True,True,False,False,A2,2.0,67.0,ok,,missing,650000.0,650000.0,ok,False,2026-10-06,ok,travel 1 yr,0.0,linkedin,см. вложение,2,False,False,,False
+C1083,M,40.0,0.0,ok,True,False,True,True,True,False,True,,,69.0,ok,3.0,ok,420000.0,420000.0,ok,False,2026-10-14,ok,,,hh.kz,,1,False,False,,False
+C1084,M,39.0,5.5,ok,False,False,False,False,True,False,False,B1*,3.5,50.0,ok,3.0,ok,730000.0,730000.0,ok,False,2026-10-10,ok,декрет 2022-2023,0.0,referral,см. вложение,2,False,False,,False
+C1085,F,,1.0,ok,False,True,True,True,True,False,False,B2,4.0,,missing,2.0,ok,480000.0,480000.0,ok,False,2026-09-30,ok,,1.0,hh.kz,,1,False,False,,False
+C1086,M,36.0,4.0,ok,False,False,True,False,True,False,False,B2,4.0,40.0,ok,,missing,780000.0,780000.0,ok,False,2026-09-11,ok(resolved by application window),,0.0,instagram,,1,False,False,,False
+C1087,F,43.0,5.0,ok,False,True,True,True,False,False,False,C2,6.0,61.0,ok,4.0,ok,770000.0,770000.0,ok,False,2026-09-06,ok,gap 2021,,company site,,1,False,False,,False
+C1088,M,40.0,6.0,ok,False,False,False,True,False,False,False,B2,4.0,56.0,ok,,impossible,700000.0,700000.0,ok,False,2026-09-23,ok,,1.0,instagram,,1,False,False,,False
+C1089,M,22.0,1.0,ok,False,True,False,False,False,False,False,B1*,3.5,57.0,ok,3.0,ok,559000.0,559000.0,ok,True,2026-09-04,ok,декрет 2022-2023,1.0,referral,,2,False,False,,False
+C1090,F,30.0,2.0,ok,False,False,True,True,False,False,False,B1*,3.5,56.0,ok,,missing,680000.0,680000.0,ok,False,2026-09-05,ok,болезнь,,hh.kz,offer sent?,1,False,False,,False
+C1091,F,28.0,2.0,ok,False,False,False,False,True,False,False,C2,6.0,79.0,ok,3.0,ok,690000.0,690000.0,ok,False,2026-10-07,ok,,0.0,linkedin,,2,False,False,,False
+C1092,F,30.0,3.0,ok,False,False,True,False,False,False,False,,,54.0,ok,2.0,ok,,,negotiable,False,2026-09-12,ok,travel 1 yr,0.0,company site,см. вложение,2,False,False,,False
+C1093,F,43.0,1.0,ok,False,True,True,True,True,False,False,B1*,3.5,48.0,ok,3.0,ok,620000.0,620000.0,ok,False,2026-09-26,ok,,1.0,referral,см. вложение,2,False,False,,False
+C1094,M,,10.0,ok,False,False,False,False,False,False,False,B2,4.0,68.0,ok,4.0,ok,1080000.0,1080000.0,ok,False,2026-09-04,ok,,1.0,linkedin,,1,False,False,,False
+C1095,unknown,35.0,0.0,ok,False,True,False,False,True,False,False,B2,4.0,,missing,,missing,360000.0,360000.0,ok,False,2026-09-16,ok,болезнь,1.0,instagram,,1,False,False,,False
+C1096,F,36.0,8.0,ok,True,True,False,False,True,False,True,B1*,3.5,53.0,ok,3.0,qualitative,850000.0,850000.0,ok,False,2026-09-09,ok,декрет 2022-2023,0.0,hh.kz,,1,False,False,,False
+C1097,F,28.0,8.0,ok,True,False,False,False,False,False,True,C2,6.0,93.0,ok,5.0,ok,,,negotiable,False,2026-09-18,ok,учеба за границей,0.0,telegram,"см. письмо от 12.10
+perezvonit'",1,False,True,75.4,False
+C1098,unknown,30.0,3.0,ok,True,True,True,True,False,False,True,,,58.0,ok,2.0,ok,580000.0,580000.0,ok,False,2026-09-19,ok,,0.0,hh.kz,,2,False,False,,False
+C1099,M,43.0,2.0,ok,True,False,False,False,True,False,True,A2,2.0,93.0,ok,5.0,ok,,,negotiable,False,,impossible(after export date),декрет 2022-2023,0.0,linkedin,см. вложение,2,False,False,,False
+C1100,F,33.0,1.0,ok,False,False,False,True,True,False,False,C1,5.0,,missing,4.0,ok,510000.0,510000.0,ok,False,2026-10-01,ok(resolved by application window),,0.0,hh.kz,,1,False,False,,False
+C1101,M,43.0,4.0,ok,False,True,False,True,True,False,False,C1,5.0,100.0,ok,5.0,ok,710000.0,710000.0,ok,False,2026-09-11,ok,,,referral,,1,False,False,,False
+C1102,F,25.0,2.0,ok,False,False,False,True,True,False,False,A2,2.0,55.0,ok,3.0,ok,580000.0,580000.0,ok,False,2026-10-17,ok,армия,,hh.kz,см. вложение,2,False,False,,False
+C1103,M,46.0,1.0,ok,False,False,False,True,True,False,False,B1*,3.5,81.0,ok,3.0,ok,610000.0,610000.0,ok,False,2026-09-10,ambiguous(dd/mm assumed),,,referral,,2,False,False,,False
+C1104,F,40.0,4.0,ok,False,False,False,True,True,False,False,B1*,3.5,74.0,ok,4.0,qualitative,,,negotiable,False,2026-09-01,ok(resolved by application window),gap 2021,0.0,referral,relative of manager,1,False,False,,False
+C1105,F,40.0,3.0,ok,False,True,True,True,True,False,False,B1,3.0,,missing,3.0,ok,640000.0,640000.0,ok,False,2026-09-12,ok,учеба за границей,,hh.kz,см. вложение,2,False,False,,False
+C1106,M,40.0,7.0,ok,False,False,True,False,True,False,False,B2,4.0,51.0,ok,3.0,ok,880000.0,1030000.0,ok,False,2026-10-17,ok,учеба за границей,0.0,hh.kz,,1,False,False,,False
+C1107,M,43.0,6.0,ok,False,False,True,False,False,False,False,A2,2.0,62.0,ok,3.0,ok,730000.0,730000.0,ok,False,2026-10-09,ambiguous(dd/mm assumed),болезнь,0.0,linkedin,,1,False,False,,False
+C1108,F,30.0,2.0,ok,False,False,False,True,False,False,False,B2,4.0,73.0,ok,4.0,qualitative,590000.0,590000.0,ok,False,2026-10-02,ok,,0.0,enbek.kz,см. вложение,2,False,False,,False
+C1109,F,38.0,3.0,ok,False,False,False,False,True,False,False,B1*,3.5,79.0,ok,4.0,qualitative,670000.0,670000.0,ok,False,2026-09-19,ok,декрет,1.0,linkedin,,1,False,False,,False
+C1110,M,24.0,1.0,ok,False,True,False,False,True,False,False,B1*,3.5,72.0,ok,5.0,ok,390000.0,390000.0,ok,False,2026-10-11,ok(resolved by application window),gap 2021,0.0,career fair,см. вложение,2,False,False,,False
+C1111,M,34.0,10.5,ok,False,False,True,True,True,False,False,B2,4.0,62.0,ok,,missing,1200000.0,1200000.0,ok,False,2026-10-19,ok,,0.0,linkedin,см. вложение,2,False,False,,False
+C1112,F,42.0,5.0,ok,True,False,True,True,True,False,True,C1,5.0,51.0,ok,,missing,770000.0,770000.0,ok,False,2026-09-25,ok,декрет 2022-2023,0.0,linkedin,,1,False,False,,False
+C1113,F,31.0,0.0,ok,False,True,False,True,True,False,False,B1*,3.5,70.0,ok,5.0,qualitative,440000.0,440000.0,ok,False,2026-09-17,ok,,0.0,hh.kz,,2,False,False,,False
+C1114,M,30.0,5.0,ok,False,True,False,False,False,False,False,A2,2.0,82.0,ok,3.0,ok,860000.0,860000.0,ok,False,2026-09-12,ok,travel 1 yr,1.0,hh.kz,,1,False,False,,False
+C1115,F,22.0,0.0,ok,False,False,False,False,True,False,False,B1,3.0,83.0,ok,5.0,ok,310000.0,310000.0,ok,False,2026-09-20,ok,travel 1 yr,0.0,referral,,1,False,False,,False
+C1116,F,33.0,4.0,ok,False,False,False,True,False,False,False,,,,missing,5.0,ok,706000.0,706000.0,ok,True,2026-10-17,ok,,0.0,telegram,,1,False,False,,False
+C1117,M,35.0,6.0,ok,True,False,True,True,True,False,True,C1,5.0,,missing,4.0,qualitative,,,negotiable,False,2026-10-16,ok,болезнь,1.0,referral,,2,False,False,,False
+C1118,F,33.0,1.0,ok,False,False,True,True,True,False,False,A2,2.0,44.0,ok,4.0,ok,500000.0,500000.0,ok,False,2026-09-29,ok,болезнь,0.0,enbek.kz,,1,False,False,,False
+C1119,M,37.0,2.0,ok,False,False,False,True,True,False,False,B1*,3.5,74.0,ok,,missing,410000.0,410000.0,ok,False,2026-09-10,ok,армия,1.0,linkedin,,2,False,False,,False
+C1120,M,31.0,,unparsed,False,False,True,False,False,False,False,B1,3.0,66.0,ok,3.0,ok,750000.0,750000.0,ok,False,2026-09-14,ok,,1.0,telegram,,1,False,False,,False
+C1121,M,28.0,1.0,ok,True,True,False,False,True,False,True,A2,2.0,25.0,ok,1.0,ok,480000.0,480000.0,ok,False,2026-09-13,ok,армия,0.0,hh.kz,OFFER ACCEPTED,1,False,False,,False
+C1122,F,31.0,2.0,ok,False,False,False,True,True,False,False,B2,4.0,,missing,3.0,qualitative,590000.0,590000.0,ok,False,2026-09-17,ok,,0.0,telegram,,2,False,False,,False
+C1123,unknown,43.0,0.0,ok,True,False,False,True,False,False,True,C1,5.0,45.0,ok,2.0,ok,310000.0,310000.0,ok,False,2026-09-06,ok,декрет 2022-2023,0.0,referral,,1,False,False,,False
+C1124,F,43.0,8.0,ok,False,True,False,False,True,False,False,B2,4.0,77.0,ok,5.0,ok,1040000.0,1190000.0,ok,False,2026-10-05,ok,,1.0,telegram,рекомендован директором,1,False,False,,False
+C1125,F,26.0,2.0,ok,True,False,True,True,True,False,True,B2,4.0,,missing,4.0,ok,560000.0,560000.0,ok,False,2026-10-03,ok(resolved by application window),gap 2021,0.0,instagram,,1,False,False,,False
+C1126,M,45.0,,missing,True,True,False,False,True,False,True,B2,4.0,46.0,ok,2.0,ok,270000.0,270000.0,ok,False,2026-10-14,ok,,0.0,telegram,,2,False,False,,False
+C1127,M,22.0,0.0,ok,True,False,True,True,True,False,True,C1,5.0,67.0,ok,,missing,430000.0,430000.0,ok,False,2026-09-01,ok(resolved by application window),армия,1.0,linkedin,,1,False,False,,False
+C1128,F,28.0,6.0,ok,False,False,False,True,True,False,False,C1,5.0,79.0,ok,,missing,950000.0,950000.0,ok,False,2026-10-13,ok,,0.0,career fair,,1,False,False,,False
+C1129,M,31.0,1.0,ok,True,False,False,True,True,False,True,B1*,3.5,56.0,ok,,missing,400000.0,400000.0,ok,False,2026-09-15,ok,декрет 2022-2023,0.0,enbek.kz,,1,False,False,,False
+C1130,M,29.0,6.0,ok,True,False,True,True,True,False,True,C2,6.0,99.0,ok,5.0,ok,900000.0,900000.0,ok,False,2026-10-10,ok,,1.0,career fair,"ОТКАЗАЛСЯ от оффера в 2025, ушел через 2 недели (job hopping)",1,False,False,,False
+C1131,F,37.0,5.0,ok,True,False,True,True,True,False,True,C1,5.0,97.0,ok,5.0,ok,550000.0,550000.0,ok,False,2026-09-27,ok,декрет 2023-2024,0.0,linkedin,,2,False,True,95.35,True
+C1132,M,27.0,4.0,ok,True,True,True,False,False,False,True,B2,4.0,96.0,ok,,missing,600000.0,600000.0,ok,False,2026-10-18,ok,,0.0,linkedin,см. вложение,2,False,False,,False
+C1133,F,29.0,3.0,ok,True,False,True,True,True,False,True,C1,5.0,94.0,ok,4.0,ok,550000.0,550000.0,ok,True,2026-10-21,ok,,,enbek.kz,,1,False,True,80.7,True
+C1134,F,34.0,7.0,ok,True,False,False,True,True,False,True,B1*,3.5,66.0,ok,,missing,780000.0,780000.0,ok,False,2026-09-10,ambiguous(dd/mm assumed),армия,0.0,referral,,2,False,False,,False
+C1135,M,45.0,0.0,ok,False,False,True,True,True,False,False,B2,4.0,67.0,ok,4.0,ok,330000.0,330000.0,ok,False,2026-09-09,ok,декрет 2022-2023,1.0,telegram,см. вложение,2,False,False,,False
+C1136,M,36.0,1.0,ok,True,False,True,False,True,False,True,C2,6.0,72.0,ok,3.0,ok,610000.0,610000.0,ok,False,2026-09-19,ok,болезнь,0.0,career fair,,1,False,False,,False
+C1137,F,32.0,5.0,ok,False,False,True,False,True,False,False,A2,2.0,54.0,ok,3.0,ok,690000.0,690000.0,ok,False,2026-09-20,ok,,0.0,referral,см. вложение,2,False,False,,False
+C1138,F,38.0,2.0,ok,False,False,False,True,True,False,False,B1*,3.5,80.0,ok,4.0,ok,500000.0,500000.0,ok,True,2026-09-08,ok(resolved by application window),декрет 2022-2023,1.0,referral,,2,False,False,,False
+C1139,F,,3.0,ok,True,False,False,True,True,False,True,B1*,3.5,65.0,ok,2.0,ok,550000.0,550000.0,ok,False,2026-10-05,ok,,,enbek.kz,,2,False,False,,False
+C1140,M,34.0,0.0,ok,False,False,False,False,False,False,False,B1*,3.5,65.0,ok,3.0,ok,470000.0,470000.0,ok,False,2026-09-15,ok,,1.0,hh.kz,,1,False,False,,False
+C1141,M,33.0,10.5,ok,False,False,True,False,True,False,False,B1*,3.5,48.0,ok,3.0,ok,1070000.0,1070000.0,ok,False,2026-10-15,ok,,0.0,instagram,,1,False,False,,False
+C1142,F,38.0,2.0,ok,False,False,False,True,False,False,False,B1*,3.5,38.0,ok,1.0,ok,680000.0,680000.0,ok,False,2026-09-25,ok,,0.0,linkedin,,2,False,False,,False
+C1143,F,37.0,0.0,ok,False,False,True,True,True,False,False,C1,5.0,,missing,1.0,ok,410000.0,410000.0,ok,False,2026-09-20,ok,армия,0.0,instagram,,2,False,False,,False
+C1144,F,24.0,2.0,ok,False,False,False,False,False,False,False,B2,4.0,74.0,ok,5.0,ok,690000.0,690000.0,ok,False,2026-09-30,ok,,0.0,telegram,,1,False,False,,False
+C1145,F,43.0,1.0,ok,False,False,False,True,False,False,False,B1*,3.5,60.0,ok,,missing,350000.0,350000.0,ok,False,2026-09-04,ok,болезнь,0.0,telegram,,1,False,False,,False
+C1146,M,37.0,1.0,ok,False,False,True,False,False,False,False,B2,4.0,,missing,2.0,ok,392000.0,392000.0,ok,True,2026-10-09,ok,декрет 2022-2023,,hh.kz,,1,False,False,,False
+C1147,F,45.0,0.0,ok,False,True,True,False,True,False,False,B1*,3.5,43.0,ok,2.0,ok,540000.0,540000.0,ok,False,2026-09-28,ok,декрет,0.0,telegram,"см. письмо от 12.10
+perezvonit'",1,False,False,,False
+C1148,F,39.0,1.0,ok,True,True,True,True,False,False,True,C1,5.0,83.0,ok,4.0,ok,590000.0,590000.0,ok,False,2026-09-15,ok,болезнь,0.0,hh.kz,,1,False,False,,False
+C1149,F,36.0,1.5,ok,True,False,True,True,True,False,True,A2,2.0,98.0,ok,,missing,,,negotiable,False,2026-10-03,ok(resolved by application window),,0.0,referral,,2,False,False,,False
+C1150,M,36.0,7.0,ok,True,False,True,True,True,False,True,B1,3.0,90.0,ok,5.0,ok,,,negotiable,False,2026-09-11,ok,декрет 2022-2023,0.0,referral,,1,False,False,,False
+C1151,F,28.0,5.0,ok,False,False,False,True,True,False,False,C2,6.0,70.0,ok,4.0,ok,760000.0,760000.0,ok,False,2026-09-22,ok,,1.0,linkedin,,1,False,False,,False
+C1152,M,44.0,1.0,ok,False,False,True,True,True,False,False,A2,2.0,64.0,ok,4.0,qualitative,570000.0,570000.0,ok,False,2026-10-09,ok,,0.0,hh.kz,,1,False,False,,False
+C1153,M,32.0,2.0,ok,False,False,True,False,False,False,False,,,90.0,ok,4.0,ok,620000.0,620000.0,ok,False,2026-09-12,ok(resolved by application window),учеба за границей,0.0,enbek.kz,,1,False,False,,False
+C1154,F,39.0,8.0,ok,False,False,True,False,False,False,False,C2,6.0,59.0,ok,3.0,ok,,,negotiable,False,2026-09-16,ok,учеба за границей,0.0,telegram,см. вложение,2,False,False,,False
+C1155,M,46.0,1.0,ok,False,False,False,False,False,False,False,B2,4.0,60.0,ok,4.0,ok,420000.0,570000.0,ok,False,2026-09-07,ok(resolved by application window),армия,1.0,linkedin,,2,False,False,,False
+C1156,F,45.0,3.5,ok,True,True,False,True,False,False,True,A2,2.0,57.0,ok,3.0,ok,500000.0,500000.0,ok,False,2026-10-13,ok,gap 2021,0.0,referral,см. вложение,2,False,False,,False
+C1157,F,46.0,3.0,ok,False,False,False,True,False,False,False,B2,4.0,45.0,ok,2.0,ok,570000.0,570000.0,ok,False,2026-09-30,ok,,0.0,hh.kz,,1,False,False,,False
+C1158,F,35.0,0.0,ok,False,False,False,False,False,False,False,B2,4.0,,missing,4.0,ok,420000.0,570000.0,ok,False,2026-09-02,ok,,0.0,hh.kz,,2,False,False,,False
+C1159,M,33.0,2.0,ok,False,False,True,False,True,False,False,B1*,3.5,57.0,ok,,missing,510000.0,510000.0,ok,False,2026-10-19,ok,учеба за границей,0.0,referral,,1,False,False,,False
+C1160,M,35.0,1.0,ok,False,False,False,True,False,False,False,A2,2.0,49.0,ok,3.0,ok,570000.0,570000.0,ok,False,2026-09-07,ok(resolved by application window),декрет 2022-2023,0.0,hh.kz,,2,False,False,,False
+C1161,F,27.0,0.0,ok,False,False,True,False,False,False,False,,,62.0,ok,2.0,qualitative,390000.0,390000.0,ok,False,2026-09-29,ok,декрет 2022-2023,,instagram,см. вложение,2,False,False,,False
+C1162,F,38.0,6.0,ok,False,False,True,True,False,False,False,A2,2.0,,missing,,missing,830000.0,830000.0,ok,False,2026-10-15,ok,армия,0.0,linkedin,,1,False,False,,False
+C1163,M,29.0,6.0,ok,False,False,False,False,False,False,False,B2,4.0,64.0,ok,4.0,ok,800000.0,800000.0,ok,False,2026-09-02,ok(resolved by application window),gap 2021,0.0,hh.kz,см. вложение,2,False,False,,False
+C1164,F,29.0,0.0,ok,False,False,False,False,True,False,False,C1,5.0,82.0,ok,4.0,qualitative,410000.0,410000.0,ok,False,2026-10-03,ok,,1.0,referral,,1,False,False,,False
+C1165,M,22.0,1.0,ok,True,False,True,True,True,False,True,B1*,3.5,95.0,ok,4.0,qualitative,460000.0,460000.0,ok,False,2026-10-02,ok,армия,1.0,referral,,1,False,False,,False
+C1166,M,39.0,2.0,ok,False,False,False,True,False,False,False,C1,5.0,43.0,ok,2.0,ok,520000.0,520000.0,ok,False,2026-09-15,ok,учеба за границей,0.0,telegram,,2,False,False,,False
+C1167,F,24.0,1.0,ok,True,False,False,False,False,False,True,B1*,3.5,46.0,ok,2.0,ok,380000.0,380000.0,ok,False,2026-10-19,ok,декрет 2022-2023,0.0,linkedin,см. вложение,2,False,False,,False
+C1168,M,38.0,10.0,ok,False,True,False,True,True,False,False,B1,3.0,97.0,ok,5.0,ok,1070000.0,1070000.0,ok,False,2026-10-19,ok,декрет 2022-2023,,linkedin,,2,False,False,,False
+C1169,M,39.0,2.0,ok,True,False,False,False,True,False,True,B2,4.0,78.0,ok,3.0,ok,590000.0,590000.0,ok,False,2026-09-14,ok,,1.0,linkedin,,2,False,False,,False
+C1170,F,39.0,10.0,ok,False,False,False,False,True,False,False,B2,4.0,67.0,ok,4.0,ok,980000.0,980000.0,ok,False,2026-09-12,ok,декрет 2022-2023,0.0,telegram,,1,False,False,,False
+C1171,M,45.0,3.0,ok,False,True,True,True,True,False,False,B1*,3.5,72.0,ok,4.0,ok,600000.0,600000.0,ok,False,2026-10-17,ok,,0.0,career fair,,1,False,False,,False
+C1172,F,31.0,2.0,ok,True,False,False,True,True,False,True,B2,4.0,74.0,ok,4.0,qualitative,570000.0,570000.0,ok,False,2026-10-14,ok,,1.0,hh.kz,,1,False,True,55.95,False
+C1173,F,34.0,12.0,ok,True,True,False,True,False,False,True,A2,2.0,53.0,ok,1.0,ok,1310000.0,1310000.0,ok,False,2026-09-25,ok,,0.0,telegram,см. вложение,2,False,False,,False
+C1174,M,21.0,,missing,True,False,False,False,False,False,True,B1*,3.5,71.0,ok,,missing,333500.0,333500.0,ok,True,2026-10-03,ok(resolved by application window),,1.0,referral,,2,False,False,,False
+C1175,F,46.0,6.0,ok,False,False,True,False,False,False,False,A2,2.0,39.0,ok,1.0,qualitative,810000.0,810000.0,ok,False,2026-09-04,ok(resolved by application window),армия,1.0,company site,,1,False,False,,False
+C1176,F,31.0,10.0,ok,False,False,True,True,True,False,False,B1,3.0,82.0,ok,,missing,1110000.0,1110000.0,ok,False,2026-10-21,ok,travel 1 yr,0.0,instagram,,1,False,False,,False
+C1177,F,41.0,3.0,ok,False,False,False,False,True,False,False,B1*,3.5,59.0,ok,3.0,ok,670000.0,670000.0,ok,False,2026-10-20,ok,travel 1 yr,0.0,enbek.kz,,2,False,False,,False
+C1178,F,29.0,0.0,ok,True,True,False,True,True,False,True,B1*,3.5,54.0,ok,4.0,ok,460000.0,610000.0,ok,False,2026-10-03,ok,,0.0,referral,см. вложение,2,False,False,,False
+C1179,M,34.0,3.5,ok,False,False,True,False,True,False,False,B1*,3.5,35.0,ok,1.0,ok,630000.0,630000.0,ok,False,2026-10-16,ok,болезнь,,enbek.kz,,2,False,False,,False
+C1180,F,22.0,0.0,ok,True,False,True,True,False,False,True,B1,3.0,64.0,ok,4.0,ok,330000.0,330000.0,ok,False,2026-09-17,ok,декрет 2022-2023,,career fair,,1,False,False,,False
+C1181,unknown,39.0,3.0,ok,False,False,True,True,False,False,False,,,79.0,ok,,missing,637500.0,637500.0,ok,True,2026-09-29,ok,болезнь,,telegram,см. вложение,2,False,False,,False
+C1182,M,39.0,2.0,ok,True,False,False,True,False,False,True,B2,4.0,53.0,ok,4.0,ok,,,negotiable,False,2026-09-14,ok,болезнь,,enbek.kz,см. вложение,2,False,False,,False
+C1183,F,40.0,1.0,ok,False,False,True,False,True,False,False,A2,2.0,46.0,ok,3.0,ok,500000.0,500000.0,ok,False,2026-10-20,ok,travel 1 yr,0.0,company site,,2,False,False,,False
+C1184,M,39.0,5.0,ok,True,False,False,False,False,False,True,C1,5.0,61.0,ok,4.0,ok,700000.0,700000.0,ok,False,2026-10-01,ok,,0.0,career fair,,1,False,False,,False
+C1185,F,,1.0,ok,False,False,False,True,True,False,False,A2,2.0,,missing,1.0,ok,450000.0,450000.0,ok,False,2026-10-02,ok,maternity leave 2022,0.0,referral,,2,False,False,,False
+C1186,M,,1.0,ok,False,False,False,False,True,False,False,A2,2.0,53.0,ok,2.0,ok,620000.0,620000.0,ok,False,2026-09-01,ok,,0.0,linkedin,уже прошел финал,1,False,False,,False
+C1187,F,45.0,12.0,ok,False,False,False,True,True,False,False,B1*,3.5,34.0,ok,,missing,1260000.0,1260000.0,ok,False,2026-09-30,ok,,1.0,linkedin,,1,False,False,,False
+C1188,M,44.0,1.0,ok,False,False,False,False,True,False,False,B1*,3.5,,missing,3.0,ok,520000.0,520000.0,ok,False,2026-10-05,ok,travel 1 yr,0.0,career fair,,1,False,False,,False
+C1189,F,42.0,2.0,ok,False,False,False,True,True,False,False,B1*,3.5,68.0,ok,3.0,ok,460000.0,460000.0,ok,False,2026-10-19,ok,декрет 2022-2023,0.0,linkedin,см. вложение,2,False,False,,False
+C1190,F,43.0,3.0,ok,False,False,False,False,False,False,False,C1,5.0,,missing,3.0,ok,580000.0,580000.0,ok,False,2026-09-21,ok,болезнь,0.0,telegram,,1,False,False,,False
+C1191,F,23.0,,impossible,True,True,False,True,True,False,True,B2,4.0,49.0,ok,4.0,ok,1110000.0,1110000.0,ok,False,2026-09-16,ok,учеба за границей,1.0,enbek.kz,,1,False,False,,False
+C1192,F,34.0,2.0,ok,False,False,False,False,True,False,False,B1*,3.5,,missing,2.0,ok,590000.0,590000.0,ok,False,2026-10-21,ok,gap 2021,1.0,referral,,1,False,False,,False
+C1193,F,29.0,0.0,ok,False,False,False,True,True,False,False,B2,4.0,71.0,ok,5.0,ok,300000.0,300000.0,ok,False,2026-10-13,ok,,,referral,,1,False,False,,False
+C1194,F,37.0,2.0,ok,False,True,False,True,False,False,False,B2,4.0,91.0,ok,4.0,ok,690000.0,690000.0,ok,False,2026-10-10,ok,,0.0,enbek.kz,,1,False,False,,False
+C1195,unknown,28.0,4.0,ok,False,True,False,False,False,False,False,C1,5.0,,missing,3.0,ok,690000.0,690000.0,ok,False,2026-10-19,ok,maternity leave 2022,0.0,telegram,,2,False,False,,False
+C1196,F,42.0,7.0,ok,False,False,False,True,False,False,False,B1*,3.5,46.0,ok,2.0,ok,951000.0,951000.0,ok,True,2026-09-06,ok,,0.0,linkedin,,1,False,False,,False
+C1197,M,43.0,0.0,ok,False,True,True,False,False,False,False,A2,2.0,65.0,ok,4.0,ok,300000.0,300000.0,ok,False,2026-09-08,ok,болезнь,,career fair,,2,False,False,,False
+C1198,F,45.0,8.0,ok,False,False,True,True,True,False,False,B2,4.0,87.0,ok,,missing,1010000.0,1010000.0,ok,False,2026-10-01,ok,,0.0,linkedin,,1,False,False,,False
+C1199,M,37.0,2.0,ok,False,False,True,False,True,False,False,B1,3.0,26.0,ok,2.0,ok,530000.0,530000.0,ok,False,2026-10-05,ok(resolved by application window),армия,1.0,hh.kz,,1,False,False,,False
+C1200,F,42.0,1.0,ok,False,True,False,False,True,False,False,B1*,3.5,58.0,ok,2.0,ok,470500.0,470500.0,ok,True,2026-10-02,ok(resolved by application window),travel 1 yr,0.0,telegram,,1,False,False,,False
+C1201,M,24.0,3.0,ok,True,False,True,True,True,False,True,B2,4.0,69.0,ok,4.0,ok,630000.0,630000.0,ok,False,2026-10-13,ok,gap 2021,0.0,career fair,,2,False,False,,False
+C1202,F,44.0,7.0,ok,False,False,True,True,True,False,False,B2,4.0,45.0,ok,3.0,ok,,,negotiable,False,2026-09-19,ok,армия,0.0,referral,,2,False,False,,False
+C1203,F,35.0,3.0,ok,True,False,True,False,True,False,True,C1,5.0,56.0,ok,2.0,ok,630000.0,630000.0,ok,False,2026-10-07,ok,болезнь,0.0,hh.kz,,1,False,False,,False
+C1204,M,25.0,3.0,ok,True,False,False,False,True,False,True,B2,4.0,,missing,3.0,ok,510000.0,510000.0,ok,False,2026-09-24,ok,gap 2021,0.0,hh.kz,,2,False,False,,False
+C1205,M,29.0,0.0,ok,False,False,False,True,False,False,False,,,62.0,ok,3.0,ok,320000.0,320000.0,ok,False,2026-09-03,ok(resolved by application window),,0.0,referral,,1,False,False,,False
+C1206,F,42.0,6.0,ok,False,False,False,False,True,False,False,B1,3.0,52.0,ok,2.0,qualitative,774500.0,774500.0,ok,True,2026-09-18,ok,болезнь,0.0,hh.kz,,2,False,False,,False
+C1207,F,32.0,4.0,ok,False,False,True,True,True,False,False,C1,5.0,88.0,ok,,missing,600000.0,600000.0,ok,False,2026-09-11,ok,travel 1 yr,0.0,career fair,,1,False,False,,False
+C1208,F,22.0,,missing,False,False,True,True,True,False,False,B1,3.0,57.0,ok,3.0,ok,300000.0,300000.0,ok,False,2026-09-26,ok,декрет,,enbek.kz,,1,False,False,,False
+C1209,M,21.0,0.0,ok,True,False,False,True,True,False,True,B2,4.0,55.0,ok,3.0,ok,441000.0,441000.0,ok,True,2026-09-06,ok,,0.0,linkedin,,1,False,False,,False
+C1210,M,37.0,0.0,ok,False,True,True,False,True,False,False,B1*,3.5,78.0,ok,3.0,ok,410000.0,410000.0,ok,False,2026-09-26,ok,армия,1.0,linkedin,,1,False,False,,False
+C1211,M,,4.0,ok,False,False,False,True,True,False,False,B2,4.0,63.0,ok,,missing,560000.0,560000.0,ok,False,2026-10-09,ok,декрет 2022-2023,,hh.kz,,1,False,False,,False
+C1212,F,28.0,4.0,ok,False,False,False,False,True,False,False,B1,3.0,,missing,4.0,ok,610000.0,610000.0,ok,False,2026-10-15,ok,gap 2021,0.0,hh.kz,,1,False,False,,False
+C1213,F,25.0,2.0,ok,False,False,True,False,True,False,False,B2,4.0,51.0,ok,2.0,qualitative,578500.0,578500.0,ok,True,2026-10-08,ok,болезнь,1.0,company site,,1,False,False,,False
+C1214,F,36.0,1.0,ok,True,False,False,True,True,False,True,C1,5.0,78.0,ok,5.0,ok,430000.0,430000.0,ok,False,2026-10-21,ok,,1.0,hh.kz,,1,False,False,,False
+C1215,M,35.0,7.0,ok,False,False,False,False,True,False,False,C1,5.0,69.0,ok,3.0,ok,820000.0,820000.0,ok,False,2026-09-06,ok,,0.0,referral,,1,False,False,,False
+C1216,F,,1.0,ok,True,True,True,False,True,False,True,B1*,3.5,82.0,ok,,missing,520000.0,520000.0,ok,False,2026-09-14,ok,декрет 2023-2024,,referral,,2,False,False,,False
+C1217,M,24.0,2.0,ok,False,False,True,True,True,False,False,B1*,3.5,91.0,ok,5.0,ok,510000.0,510000.0,ok,False,2026-09-23,ok,travel 1 yr,0.0,enbek.kz,,1,False,False,,False
+C1218,F,,3.0,ok,False,True,False,True,False,False,False,C1,5.0,,missing,4.0,ok,,,negotiable,False,2026-09-27,ok,декрет 2022-2023,1.0,hh.kz,offer sent?,1,False,False,,False
+C1219,M,24.0,2.5,ok,True,True,True,True,True,False,True,A2,2.0,71.0,ok,3.0,ok,520000.0,520000.0,ok,False,2026-09-08,ok,армия,0.0,hh.kz,см. вложение,2,False,False,,False
+C1220,F,38.0,3.0,ok,True,False,False,True,True,False,True,B2,4.0,77.0,ok,4.0,ok,500000.0,500000.0,ok,False,2026-10-12,ok,,0.0,hh.kz,,1,False,True,60.6,False
+C1221,F,24.0,3.0,ok,False,False,True,False,True,False,False,C1,5.0,70.0,ok,4.0,ok,670000.0,670000.0,ok,False,2026-09-17,ok,,0.0,referral,,1,False,False,,False
+C1222,M,39.0,6.0,ok,False,True,True,False,True,False,False,B2,4.0,67.0,ok,3.0,ok,700000.0,700000.0,ok,False,2026-10-14,ok,декрет 2022-2023,1.0,company site,,2,False,False,,False
+C1223,M,42.0,8.0,ok,False,False,True,True,False,False,False,B2,4.0,74.0,ok,4.0,ok,860000.0,860000.0,ok,False,2026-10-12,ok(resolved by application window),болезнь,0.0,enbek.kz,,2,False,False,,False
+C1224,M,26.0,3.5,ok,True,False,False,False,False,False,True,B1*,3.5,,missing,3.0,ok,490000.0,490000.0,ok,False,2026-10-17,ok,,0.0,hh.kz,,1,False,False,,False
+C1225,F,35.0,5.0,ok,False,True,False,False,True,False,False,A2,2.0,49.0,ok,1.0,ok,710000.0,710000.0,ok,False,2026-09-29,ok,maternity leave 2022,0.0,referral,,1,False,False,,False
+C1226,F,26.0,3.0,ok,False,False,True,False,False,False,False,B2,4.0,,missing,5.0,ok,620000.0,620000.0,ok,False,2026-09-05,ok,учеба за границей,,career fair,blacklist,1,True,False,,False
+C1227,M,25.0,3.0,ok,False,False,True,False,False,False,False,B1*,3.5,,missing,3.0,ok,630000.0,630000.0,ok,False,2026-10-19,ok,,1.0,hh.kz,,1,False,False,,False
+C1228,M,36.0,8.0,ok,False,False,True,False,False,False,False,C2,6.0,52.0,ok,3.0,ok,990000.0,990000.0,ok,False,2026-09-07,ok,,,career fair,,2,False,False,,False
+C1229,M,34.0,12.0,ok,False,False,True,True,False,False,False,B1*,3.5,41.0,ok,2.0,ok,1210000.0,1210000.0,ok,False,2026-09-12,ok,декрет 2022-2023,1.0,telegram,,1,True,False,,False
+C1230,M,,2.0,ok,False,True,True,True,False,False,False,C1,5.0,77.0,ok,4.0,qualitative,580000.0,580000.0,ok,False,2026-09-05,ok(resolved by application window),gap 2021,1.0,hh.kz,,1,False,False,,False
+C1231,M,33.0,4.0,ok,False,False,True,False,True,False,False,A2,2.0,,missing,3.0,ok,730000.0,730000.0,ok,False,2026-10-06,ok,,1.0,telegram,,1,False,False,,False
+C1232,M,32.0,10.0,ok,False,False,False,False,True,False,False,B2,4.0,63.0,ok,4.0,ok,950000.0,1100000.0,ok,False,2026-09-10,ok,,1.0,telegram,,2,False,False,,False
+C1233,F,23.0,2.0,ok,False,True,True,True,True,False,False,B2,4.0,,missing,2.0,ok,450000.0,450000.0,ok,False,2026-09-14,ok,учеба за границей,0.0,career fair,см. вложение,2,False,False,,False
+C1234,F,45.0,2.0,ok,False,False,False,True,True,False,False,B1,3.0,94.0,ok,5.0,ok,610000.0,610000.0,ok,False,2026-09-19,ok,декрет 2022-2023,0.0,referral,,1,False,False,,False
+C1235,M,40.0,2.0,ok,False,False,True,True,False,False,False,A2,2.0,55.0,ok,4.0,ok,570000.0,570000.0,ok,False,2026-10-21,ok,travel 1 yr,0.0,telegram,см. вложение,2,False,False,,False
+C1236,M,42.0,1.0,ok,False,True,False,False,True,False,False,C1,5.0,53.0,ok,2.0,ok,470000.0,470000.0,ok,False,2026-10-07,ok,декрет 2022-2023,0.0,linkedin,,1,False,False,,False
+C1237,M,44.0,4.0,ok,True,True,False,False,False,False,True,A2,2.0,,missing,4.0,ok,650000.0,650000.0,ok,False,2026-10-04,ok(resolved by application window),декрет 2022-2023,1.0,linkedin,,2,False,False,,False
+C1238,F,43.0,10.5,ok,False,False,False,True,False,False,False,C1,5.0,73.0,ok,3.0,ok,1137500.0,1137500.0,ok,True,2026-10-15,ok,,0.0,hh.kz,,1,False,False,,False
+C1239,M,34.0,2.0,ok,False,True,True,False,True,False,False,A2,2.0,,missing,3.0,ok,650000.0,650000.0,ok,False,2026-09-25,ok,,0.0,referral,,2,False,False,,False
+C1240,M,40.0,3.0,ok,False,False,False,True,False,False,False,C1,5.0,,missing,3.0,ok,570000.0,570000.0,ok,False,2026-09-24,ok,travel 1 yr,,career fair,blacklist,1,False,False,,False
+C1241,M,44.0,2.0,ok,False,False,False,False,False,False,False,B2,4.0,63.0,ok,3.0,qualitative,500000.0,500000.0,ok,False,2026-10-06,ok,,,hh.kz,,1,False,False,,False
+C1242,M,44.0,4.0,ok,False,False,False,True,False,False,False,B1*,3.5,,missing,2.0,ok,710000.0,710000.0,ok,False,2026-09-16,ok,,1.0,career fair,,1,False,False,,False
+C1243,F,33.0,2.0,ok,False,False,False,False,True,False,False,A2,2.0,73.0,ok,3.0,ok,451000.0,451000.0,ok,True,2026-10-09,ok,gap 2021,,enbek.kz,см. вложение,2,False,False,,False
+C1244,F,27.0,3.0,ok,False,True,True,True,True,False,False,B1*,3.5,,missing,2.0,ok,670000.0,670000.0,ok,False,2026-09-23,ok,,0.0,linkedin,,1,False,False,,False
+C1245,F,24.0,2.0,ok,True,False,True,False,True,False,True,B2,4.0,75.0,ok,,missing,550000.0,550000.0,ok,False,2026-09-19,ok,армия,0.0,linkedin,,1,False,False,,False
+C1246,M,30.0,5.0,ok,True,False,True,True,False,False,True,C1,5.0,50.0,ok,2.0,ok,700000.0,700000.0,ok,False,2026-10-11,ok,,0.0,enbek.kz,,1,False,False,,False
+C1247,M,39.0,5.0,ok,False,False,True,True,False,False,False,B1,3.0,,missing,,missing,780000.0,780000.0,ok,False,2026-09-13,ok,болезнь,0.0,hh.kz,"см. письмо от 12.10
+perezvonit'",1,False,False,,False
+C1248,M,29.0,3.0,ok,True,False,False,True,True,False,True,B1,3.0,86.0,ok,,missing,560000.0,560000.0,ok,False,2026-10-01,ok(resolved by application window),,0.0,linkedin,,1,False,False,,False
+C1249,unknown,29.0,5.0,ok,False,False,False,False,True,False,False,B1*,3.5,52.0,ok,4.0,ok,910000.0,910000.0,ok,False,2026-09-19,ok,декрет 2023-2024,0.0,enbek.kz,,2,False,False,,False
+C1250,unknown,29.0,1.0,ok,False,False,True,True,False,False,False,B2,4.0,83.0,ok,,missing,470000.0,470000.0,ok,False,2026-09-05,ok,gap 2021,1.0,hh.kz,,2,False,False,,False
+C1251,F,,1.0,ok,False,False,False,False,True,False,False,B1*,3.5,66.0,ok,,missing,588000.0,588000.0,ok,True,2026-09-09,ok,болезнь,0.0,linkedin,,1,False,False,,False
+C1252,M,43.0,6.0,ok,False,False,False,False,True,False,False,B1*,3.5,50.0,ok,3.0,ok,690000.0,690000.0,ok,False,2026-10-19,ok,travel 1 yr,0.0,company site,см. вложение,2,False,False,,False
+C1253,M,38.0,3.0,ok,False,False,True,False,True,False,False,C1,5.0,68.0,ok,3.0,ok,610000.0,610000.0,ok,False,2026-09-10,ambiguous(dd/mm assumed),армия,1.0,instagram,,2,False,False,,False
+C1254,M,24.0,1.0,ok,False,False,False,True,False,False,False,,,41.0,ok,2.0,ok,490000.0,490000.0,ok,False,2026-10-01,ok,,0.0,referral,,1,False,False,,False
+C1255,M,38.0,0.0,ok,True,False,True,True,True,False,True,B2,4.0,52.0,ok,,missing,530000.0,530000.0,ok,False,2026-09-18,ok,учеба за границей,0.0,referral,,1,False,False,,False
+C1256,M,25.0,2.0,ok,True,False,True,False,False,False,True,A2,2.0,65.0,ok,5.0,ok,540000.0,540000.0,ok,False,2026-10-11,ok(resolved by application window),,1.0,linkedin,"см. письмо от 12.10
+perezvonit'",1,False,False,,False
+C1257,M,21.0,0.0,ok,False,True,False,False,True,False,False,B1*,3.5,67.0,ok,3.0,ok,310000.0,310000.0,ok,False,2026-09-02,ok,,1.0,linkedin,,2,False,False,,False
+C1258,M,29.0,1.0,ok,False,False,True,True,True,False,False,B1*,3.5,69.0,ok,4.0,qualitative,390000.0,390000.0,ok,False,2026-09-03,ok,,0.0,enbek.kz,,1,False,False,,False
+C1259,F,28.0,3.0,ok,True,False,False,False,False,False,True,B1*,3.5,59.0,ok,4.0,ok,750000.0,750000.0,ok,False,2026-09-03,ok,учеба за границей,1.0,linkedin,,1,False,False,,False
+C1260,F,41.0,6.0,ok,True,False,False,False,False,False,True,C1,5.0,33.0,ok,2.0,qualitative,760000.0,760000.0,ok,False,2026-09-30,ok,,1.0,hh.kz,,2,False,False,,False
+C1261,F,29.0,0.0,ok,False,False,True,True,True,False,False,A2,2.0,56.0,ok,3.0,ok,530000.0,530000.0,ok,False,2026-10-04,ok,,1.0,linkedin,,1,False,False,,False
+C1262,F,23.0,3.5,ok,False,False,False,True,True,False,False,B1*,3.5,66.0,ok,4.0,ok,690000.0,690000.0,ok,False,2026-09-06,ok,,1.0,referral,см. вложение,2,False,False,,False
+C1263,F,26.0,0.0,ok,False,False,False,False,True,False,False,C1,5.0,60.0,ok,,missing,300000.0,300000.0,ok,False,2026-09-15,ok,,,referral,,1,False,False,,False
+C1264,M,44.0,2.5,ok,True,False,True,True,False,False,True,C1,5.0,59.0,ok,4.0,ok,410000.0,560000.0,ok,False,2026-09-06,ok,gap 2021,,career fair,,1,False,False,,False
+C1265,M,38.0,3.0,ok,False,False,True,False,True,False,False,B1*,3.5,83.0,ok,5.0,qualitative,650000.0,650000.0,ok,False,2026-10-11,ok,gap 2021,0.0,company site,,1,False,False,,False
+C1266,F,39.0,1.5,ok,False,True,True,True,True,False,False,A2,2.0,,missing,2.0,ok,470000.0,470000.0,ok,False,2026-10-05,ok,,0.0,hh.kz,,1,False,False,,False
+C1267,F,22.0,1.0,ok,False,True,False,False,False,False,False,B1*,3.5,33.0,ok,2.0,qualitative,440000.0,590000.0,ok,False,2026-10-06,ok,,1.0,career fair,,1,False,False,,False
+C1268,M,28.0,6.0,ok,False,True,True,True,False,False,False,B2,4.0,73.0,ok,3.0,qualitative,810000.0,810000.0,ok,False,2026-09-11,ok,,0.0,telegram,,2,False,False,,False
+C1269,F,23.0,2.5,ok,True,False,False,True,True,False,True,C2,6.0,42.0,ok,,missing,,,negotiable,False,2026-10-10,ok,учеба за границей,0.0,career fair,,1,False,False,,False
+C1270,F,22.0,,missing,False,False,True,True,True,False,False,C1,5.0,88.0,ok,5.0,ok,470000.0,470000.0,ok,False,2026-09-15,ok,,,telegram,,1,False,False,,False
+C1271,unknown,35.0,4.0,ok,True,False,True,True,False,False,True,B1*,3.5,86.0,ok,5.0,qualitative,570000.0,570000.0,ok,False,2026-10-17,ok,декрет 2023-2024,0.0,company site,,1,False,False,,False
+C1272,M,45.0,0.0,ok,False,False,False,False,True,False,False,C1,5.0,62.0,ok,2.0,ok,440000.0,440000.0,ok,False,2026-09-12,ok,,0.0,hh.kz,,1,False,False,,False
+C1273,M,23.0,2.0,ok,False,False,False,True,True,False,False,B1*,3.5,71.0,ok,4.0,ok,610000.0,610000.0,ok,False,2026-10-16,ok,армия,0.0,telegram,,1,False,False,,False
+C1274,M,32.0,2.0,ok,False,False,False,True,True,False,False,,,57.0,ok,4.0,ok,470000.0,470000.0,ok,False,2026-09-20,ok,,1.0,linkedin,рекомендован директором,1,False,False,,False
+C1275,F,36.0,1.5,ok,False,False,False,True,True,False,False,B2,4.0,57.0,ok,5.0,ok,530000.0,530000.0,ok,False,2026-09-04,ok,gap 2021,,linkedin,,1,False,False,,False
+C1276,M,42.0,8.0,ok,False,False,False,True,True,False,False,,,40.0,ok,3.0,qualitative,890000.0,890000.0,ok,False,2026-09-30,ok,gap 2021,1.0,telegram,,1,False,False,,False
+C1277,M,33.0,1.0,ok,False,True,False,True,False,False,False,B2,4.0,82.0,ok,4.0,ok,,,negotiable,False,2026-10-13,ok,gap 2021,1.0,linkedin,см. вложение,2,False,False,,False
+C1278,M,35.0,8.0,ok,False,False,False,True,False,False,False,C2,6.0,48.0,ok,,missing,970000.0,970000.0,ok,False,2026-09-23,ok,,1.0,hh.kz,см. вложение,2,False,False,,False
+C1279,M,,3.0,ok,False,False,False,False,True,False,False,,,47.0,ok,3.0,ok,,,negotiable,False,2026-10-15,ok,учеба за границей,1.0,referral,,1,False,False,,False
+C1280,M,33.0,1.0,ok,True,False,True,True,True,False,True,B2,4.0,64.0,ok,4.0,ok,400000.0,550000.0,ok,False,2026-09-30,ok,,0.0,company site,,1,False,False,,False
+C1281,F,24.0,2.0,ok,False,False,False,False,False,False,False,C1,5.0,46.0,ok,2.0,ok,540000.0,540000.0,ok,False,2026-10-11,ok(resolved by application window),декрет 2022-2023,1.0,company site,см. вложение,2,False,False,,False
+C1282,M,40.0,10.0,ok,False,False,True,True,False,False,False,B1*,3.5,68.0,ok,4.0,ok,1030000.0,1030000.0,ok,False,2026-09-07,ok,gap 2021,0.0,hh.kz,,1,False,False,,False
+C1283,unknown,23.0,2.0,ok,False,False,False,False,True,False,False,C1,5.0,39.0,ok,3.0,ok,431500.0,431500.0,ok,True,2026-09-26,ok,,1.0,telegram,,1,False,False,,False
+C1284,M,27.0,5.0,ok,True,True,True,True,False,False,True,B1*,3.5,39.0,ok,3.0,ok,890000.0,890000.0,ok,False,2026-09-17,ok,декрет 2022-2023,0.0,instagram,,1,False,False,,False
+C1285,F,35.0,3.0,ok,False,False,False,True,False,False,False,B2,4.0,50.0,ok,3.0,ok,617500.0,617500.0,ok,True,2026-09-20,ok,,0.0,career fair,,2,False,False,,False
+C1286,F,31.0,1.0,ok,False,True,False,True,True,False,False,B2,4.0,31.0,ok,2.0,qualitative,530000.0,530000.0,ok,False,2026-09-23,ok,болезнь,,referral,,1,False,False,,False
+C1287,F,23.0,1.0,ok,False,False,False,False,True,False,False,B2,4.0,,missing,,missing,430000.0,430000.0,ok,False,2026-09-29,ok,армия,0.0,linkedin,,1,False,False,,False
+C1288,M,21.0,0.0,ok,False,True,False,True,True,False,False,B2,4.0,37.0,ok,3.0,ok,480000.0,480000.0,ok,False,2026-09-04,ok(resolved by application window),,0.0,enbek.kz,см. вложение,2,False,False,,False
+C1289,M,30.0,1.0,ok,False,False,False,True,False,False,False,B2,4.0,,missing,,missing,370000.0,370000.0,ok,False,2026-10-13,ok,учеба за границей,0.0,company site,,2,False,False,,False
+C1290,F,42.0,3.0,ok,False,False,False,False,False,False,False,C1,5.0,100.0,ok,4.0,ok,570000.0,570000.0,ok,False,2026-09-04,ok,болезнь,0.0,company site,,2,False,False,,False
+C1291,F,25.0,2.0,ok,False,False,False,False,True,False,False,B1,3.0,70.0,ok,5.0,ok,570000.0,570000.0,ok,False,2026-09-11,ok,,0.0,referral,"см. письмо от 12.10
+perezvonit'",1,False,False,,False
+C1292,F,39.0,3.0,ok,False,False,False,True,True,False,False,C1,5.0,82.0,ok,,missing,530000.0,530000.0,ok,False,2026-09-19,ok,,,referral,см. вложение,2,False,False,,False
+C1293,M,26.0,3.5,ok,False,False,True,False,True,False,False,A2,2.0,42.0,ok,2.0,ok,560000.0,560000.0,ok,False,2026-10-14,ok,учеба за границей,0.0,career fair,см. вложение,2,False,False,,False
+C1294,M,22.0,2.0,ok,False,False,True,False,True,False,False,A2,2.0,75.0,ok,4.0,qualitative,510000.0,510000.0,ok,False,2026-09-02,ok(resolved by application window),армия,1.0,referral,,2,False,False,,False
+C1295,F,42.0,7.0,ok,True,False,False,True,True,False,True,B1,3.0,44.0,ok,2.0,ok,860000.0,860000.0,ok,False,2026-09-04,ok,gap 2021,0.0,career fair,см. вложение,2,True,False,,False
+C1296,F,31.0,3.5,ok,True,True,False,True,False,False,True,B1*,3.5,100.0,ok,5.0,qualitative,620000.0,620000.0,ok,False,2026-10-08,ok(resolved by application window),армия,0.0,referral,,2,False,False,,False
+C1297,F,37.0,8.0,ok,False,False,False,True,True,False,False,B1,3.0,55.0,ok,3.0,ok,872500.0,872500.0,ok,True,2026-10-21,ok,,1.0,hh.kz,,1,False,False,,False
+C1298,F,35.0,10.5,ok,False,False,True,False,False,False,False,B2,4.0,48.0,ok,4.0,ok,1050000.0,1050000.0,ok,False,2026-10-04,ok,,1.0,linkedin,,1,False,False,,False
+C1299,M,40.0,7.0,ok,False,False,False,True,True,False,False,C1,5.0,87.0,ok,4.0,ok,843000.0,843000.0,ok,True,2026-09-19,ok,gap 2021,0.0,referral,см. вложение,2,False,False,,False
+C1300,F,36.0,4.0,ok,False,True,True,False,True,False,False,B2,4.0,40.0,ok,3.0,ok,670000.0,670000.0,ok,False,2026-09-14,ok,учеба за границей,0.0,referral,,2,False,False,,False
+C1301,M,38.0,10.0,ok,False,False,True,True,False,False,False,C1,5.0,73.0,ok,3.0,ok,1120000.0,1270000.0,ok,False,2026-09-04,ok(resolved by application window),,0.0,referral,,1,False,False,,False
+C1302,F,41.0,7.0,ok,False,False,False,True,True,False,False,C1,5.0,46.0,ok,2.0,ok,800000.0,800000.0,ok,False,2026-09-12,ok,декрет 2023-2024,0.0,linkedin,см. вложение,2,False,False,,False
+C1303,M,44.0,1.0,ok,True,True,True,True,True,False,True,C1,5.0,86.0,ok,4.0,ok,480000.0,480000.0,ok,False,2026-09-09,ok,,1.0,linkedin,см. вложение,2,False,False,,False
+C1304,M,21.0,0.0,ok,False,False,False,False,True,False,False,C1,5.0,31.0,ok,2.0,ok,372500.0,372500.0,ok,True,2026-09-08,ok,,,hh.kz,,1,False,False,,False
+C1305,F,27.0,3.0,ok,False,False,True,True,True,True,True,B1*,3.5,81.0,ok,,missing,,,negotiable,False,2026-10-15,ok,армия,0.0,linkedin,"skills: SQL, Python",1,False,False,,False
+C1306,F,31.0,3.0,ok,False,True,True,True,False,False,False,B1*,3.5,84.0,ok,4.0,ok,480500.0,480500.0,ok,True,2026-09-16,ok,учеба за границей,,linkedin,,1,False,False,,False
+C1307,M,26.0,3.0,ok,False,False,False,True,False,False,False,B1*,3.5,63.0,ok,5.0,ok,630000.0,630000.0,ok,False,2026-09-01,ok,учеба за границей,0.0,linkedin,,1,False,False,,False
+C1308,M,,8.0,ok,False,True,False,False,True,False,False,B1*,3.5,62.0,ok,4.0,ok,,,negotiable,False,2026-09-09,ok,,1.0,company site,см. вложение,2,False,False,,False
+C1309,F,32.0,10.0,ok,False,True,True,True,True,False,False,B1*,3.5,46.0,ok,3.0,ok,1088000.0,1088000.0,ok,True,2026-09-11,ok,gap 2021,0.0,hh.kz,,2,False,False,,False
+C1310,F,24.0,1.0,ok,True,False,True,False,False,False,True,B2,4.0,54.0,ok,2.0,qualitative,617500.0,617500.0,ok,True,2026-09-15,ok,декрет 2023-2024,0.0,company site,,1,False,False,,False
+C1311,M,36.0,7.0,ok,False,False,False,False,False,False,False,C1,5.0,,missing,1.0,ok,1040000.0,1040000.0,ok,False,2026-10-04,ok(resolved by application window),,,instagram,см. вложение,2,False,False,,False
+C1312,M,28.0,6.0,ok,False,False,False,False,False,False,False,C1,5.0,64.0,ok,3.0,ok,840000.0,840000.0,ok,False,2026-10-18,ok,,1.0,linkedin,,2,False,False,,False
+C1313,M,39.0,1.0,ok,False,False,True,True,True,False,False,B2,4.0,68.0,ok,,missing,430000.0,430000.0,ok,False,2026-09-09,ok,,0.0,telegram,см. вложение,2,False,False,,False
+C1314,M,30.0,9.0,ok,False,False,True,True,False,False,False,A2,2.0,35.0,ok,,missing,1080000.0,1080000.0,ok,False,2026-09-29,ok,армия,1.0,referral,,2,False,False,,False
+C1315,F,43.0,4.0,ok,True,False,True,True,True,False,True,B1,3.0,90.0,ok,,missing,650000.0,650000.0,ok,False,2026-09-03,ok,,0.0,linkedin,,1,False,False,,False
+C1316,F,39.0,3.0,ok,False,True,False,False,False,False,False,B1*,3.5,37.0,ok,1.0,ok,480000.0,480000.0,ok,False,2026-09-29,ok,,1.0,career fair,,1,False,False,,False
+C1317,M,28.0,0.0,ok,False,False,False,False,True,False,False,A2,2.0,91.0,ok,4.0,ok,392000.0,392000.0,ok,True,2026-09-25,ok,gap 2021,1.0,instagram,,1,False,False,,False
+C1318,M,39.0,1.5,ok,False,False,False,True,True,False,False,C1,5.0,74.0,ok,5.0,ok,550000.0,550000.0,ok,False,2026-10-15,ok,армия,0.0,hh.kz,,1,False,False,,False
+C1319,F,25.0,5.0,ok,True,True,True,False,False,False,True,B1*,3.5,59.0,ok,3.0,ok,680000.0,680000.0,ok,False,2026-09-15,ok,декрет 2022-2023,0.0,telegram,,2,False,False,,False
+C1320,F,26.0,6.0,ok,False,False,True,True,False,False,False,B2,4.0,78.0,ok,4.0,ok,706000.0,706000.0,ok,True,2026-10-11,ok(resolved by application window),декрет,0.0,referral,,2,True,False,,False
+C1321,F,37.0,8.5,ok,False,True,False,False,True,False,False,B2,4.0,,missing,5.0,ok,840000.0,840000.0,ok,False,2026-10-02,ok,travel 1 yr,0.0,enbek.kz,,1,False,False,,False
+C1322,F,44.0,6.0,ok,False,True,False,True,True,False,False,B2,4.0,72.0,ok,4.0,ok,770000.0,770000.0,ok,False,2026-09-10,ambiguous(dd/mm assumed),,1.0,instagram,,1,False,False,,False
+C1323,F,31.0,4.0,ok,True,False,False,False,True,False,True,B2,4.0,49.0,ok,1.0,qualitative,610000.0,610000.0,ok,False,2026-09-06,ok(resolved by application window),,0.0,enbek.kz,,1,False,False,,False
+C1324,M,39.0,12.0,ok,False,False,True,True,False,False,False,,,42.0,ok,3.0,qualitative,1330000.0,1330000.0,ok,False,2026-09-27,ok,,1.0,linkedin,,1,False,False,,False
+C1325,M,23.0,0.0,ok,True,False,True,True,False,False,True,B1*,3.5,63.0,ok,2.0,ok,500000.0,500000.0,ok,False,2026-09-18,ok,армия,0.0,instagram,,2,False,False,,False
+C1326,F,22.0,0.0,ok,True,True,False,False,True,False,True,B2,4.0,72.0,ok,4.0,ok,380000.0,380000.0,ok,False,2026-09-08,ok,учеба за границей,0.0,linkedin,,1,False,False,,False
+C1327,F,40.0,3.5,ok,False,False,False,True,True,False,False,B2,4.0,73.0,ok,,missing,520000.0,520000.0,ok,False,2026-10-08,ok,,0.0,hh.kz,,1,False,False,,False
+C1328,M,33.0,7.0,ok,False,False,True,False,False,False,False,B2,4.0,35.0,ok,4.0,ok,872500.0,872500.0,ok,True,2026-09-04,ok(resolved by application window),,1.0,linkedin,,1,False,False,,False
+C1329,M,35.0,3.0,ok,False,False,False,True,True,False,False,B2,4.0,79.0,ok,5.0,ok,660000.0,660000.0,ok,False,2026-09-17,ok,travel 1 yr,,linkedin,см. вложение,2,False,False,,False
+C1330,unknown,38.0,10.0,ok,False,False,True,False,False,False,False,C2,6.0,78.0,ok,,missing,1059000.0,1059000.0,ok,True,2026-09-09,ok,,0.0,referral,,2,False,False,,False
+C1331,unknown,28.0,6.0,ok,False,False,False,False,True,False,False,C1,5.0,77.0,ok,3.0,ok,,,negotiable,False,2026-10-18,ok,,0.0,hh.kz,,2,False,False,,False
+C1332,M,30.0,4.5,ok,False,False,True,True,False,False,False,A2,2.0,45.0,ok,2.0,ok,750000.0,750000.0,ok,False,2026-09-06,ok,армия,1.0,referral,,2,False,False,,False
+C1333,F,34.0,1.0,ok,True,False,True,False,True,False,True,,,66.0,ok,2.0,ok,490000.0,490000.0,ok,False,2026-09-26,ok,,,telegram,,1,False,False,,False
+C1334,F,24.0,2.0,ok,False,False,True,False,False,False,False,A2,2.0,70.0,ok,3.0,qualitative,440000.0,440000.0,ok,False,2026-09-12,ok,,0.0,linkedin,,1,False,False,,False
+C1335,F,33.0,1.0,ok,True,False,False,True,False,False,True,B2,4.0,67.0,ok,3.0,ok,500000.0,500000.0,ok,False,2026-09-09,ok,maternity leave 2022,1.0,career fair,,1,False,False,,False
+C1336,M,36.0,5.0,ok,True,False,True,True,True,False,True,B1*,3.5,40.0,ok,,missing,892000.0,892000.0,ok,True,2026-09-24,ok,,0.0,hh.kz,,1,False,False,,False
+C1337,F,44.0,2.0,ok,True,False,True,True,True,False,True,B1*,3.5,51.0,ok,3.0,ok,480500.0,480500.0,ok,True,2026-10-05,ok(resolved by application window),декрет,0.0,hh.kz,,1,False,False,,False
+C1338,F,24.0,1.0,ok,False,False,True,True,True,False,False,B2,4.0,32.0,ok,4.0,ok,380000.0,380000.0,ok,False,2026-09-22,ok,декрет 2023-2024,0.0,company site,,1,False,False,,False
+C1339,F,35.0,1.0,ok,True,False,False,False,True,False,True,B1*,3.5,63.0,ok,4.0,ok,,,negotiable,False,2026-10-01,ok,декрет 2023-2024,0.0,linkedin,,1,False,False,,False
+C1340,F,30.0,7.0,ok,True,False,False,True,True,False,True,C1,5.0,46.0,ok,1.0,ok,860000.0,860000.0,ok,False,2026-09-02,ok,болезнь,0.0,linkedin,,2,False,False,,False
+C1341,F,,3.0,ok,False,True,False,False,True,False,False,B2,4.0,60.0,ok,2.0,ok,450000.0,600000.0,ok,False,2026-09-21,ok,,0.0,linkedin,,1,False,False,,False
+C1342,F,42.0,7.0,ok,False,False,False,False,False,False,False,C1,5.0,78.0,ok,3.0,ok,810000.0,810000.0,ok,False,2026-10-07,ok,,0.0,company site,,1,False,False,,False
+C1343,M,36.0,,missing,True,False,False,False,True,False,True,C2,6.0,47.0,ok,2.0,ok,480000.0,480000.0,ok,False,2026-09-14,ok,,1.0,telegram,,2,False,False,,False
+C1344,M,40.0,0.0,ok,False,False,False,False,False,False,False,B2,4.0,41.0,ok,2.0,ok,400000.0,400000.0,ok,False,2026-09-25,ok,декрет 2022-2023,1.0,company site,"см. письмо от 12.10
+perezvonit'",1,False,False,,False
+C1345,M,26.0,4.0,ok,False,False,True,False,True,False,False,B2,4.0,51.0,ok,,missing,,,negotiable,False,2026-09-19,ok,,0.0,hh.kz,,1,False,False,,False
+C1347,F,33.0,2.0,ok,False,False,False,True,False,False,False,B2,4.0,69.0,ok,2.0,ok,,,negotiable,False,2026-10-10,ok,учеба за границей,0.0,linkedin,,1,False,False,,False
+C1348,M,25.0,3.0,ok,False,False,False,True,False,False,False,B1*,3.5,68.0,ok,,missing,680000.0,680000.0,ok,False,2026-10-03,ok,учеба за границей,0.0,enbek.kz,,2,False,False,,False
+C1349,F,,10.5,ok,False,False,True,False,True,False,False,B1*,3.5,61.0,ok,2.0,ok,1170000.0,1170000.0,ok,False,2026-09-05,ok(resolved by application window),декрет 2022-2023,0.0,linkedin,,1,False,False,,False
+C1350,M,30.0,7.0,ok,True,False,False,False,False,False,True,B1*,3.5,85.0,ok,4.0,qualitative,,,negotiable,False,2026-10-05,ok(resolved by application window),декрет 2022-2023,1.0,linkedin,blacklist,1,False,False,,False
+C1351,M,21.0,0.0,ok,False,False,True,True,False,False,False,B2,4.0,35.0,ok,4.0,ok,380000.0,380000.0,ok,False,2026-09-15,ok,,1.0,hh.kz,,1,False,False,,False
+C1352,unknown,31.0,6.0,ok,False,False,False,True,True,False,False,B1*,3.5,64.0,ok,2.0,ok,870000.0,870000.0,ok,False,2026-10-07,ok,декрет,0.0,career fair,,1,False,False,,False
+C1353,M,45.0,6.0,ok,False,False,False,True,False,False,False,A2,2.0,64.0,ok,3.0,ok,760000.0,760000.0,ok,False,2026-10-21,ok,болезнь,0.0,hh.kz,,2,False,False,,False
+C1354,F,26.0,6.0,ok,False,True,False,True,False,False,False,A2,2.0,76.0,ok,5.0,qualitative,862500.0,862500.0,ok,True,2026-10-14,ok,,,enbek.kz,,1,False,False,,False
+C1355,M,30.0,4.0,ok,True,True,False,True,True,False,True,A2,2.0,73.0,ok,4.0,ok,600000.0,600000.0,ok,False,2026-10-12,ok,,1.0,referral,,1,False,False,,False
+C1356,F,37.0,7.0,ok,False,False,False,False,True,False,False,C1,5.0,58.0,ok,3.0,ok,,,negotiable,False,2026-10-14,ok,gap 2021,0.0,linkedin,,1,False,False,,False
+C1357,M,43.0,3.0,ok,False,False,False,False,False,False,False,B2,4.0,76.0,ok,3.0,ok,480000.0,480000.0,ok,False,2026-10-10,ok,,1.0,telegram,см. вложение,2,False,False,,False
+C1358,F,32.0,6.0,ok,False,False,False,False,False,False,False,B1*,3.5,67.0,ok,4.0,ok,823500.0,823500.0,ok,True,2026-10-18,ok,,0.0,company site,,2,False,False,,False
+C1359,M,38.0,5.0,ok,True,True,False,False,True,False,True,B1,3.0,79.0,ok,4.0,ok,780000.0,780000.0,ok,False,2026-09-30,ok,учеба за границей,0.0,instagram,,2,False,False,,False
+C1361,F,24.0,4.0,ok,False,True,False,True,False,False,False,B1,3.0,80.0,ok,5.0,ok,706000.0,706000.0,ok,True,2026-09-14,ok,болезнь,0.0,instagram,,1,False,False,,False
+C1362,F,44.0,1.0,ok,False,False,False,False,False,False,False,B2,4.0,44.0,ok,1.0,ok,520000.0,520000.0,ok,False,2026-09-06,ok(resolved by application window),,0.0,career fair,,1,False,False,,False
+C1363,F,34.0,4.0,ok,False,False,False,True,False,False,False,C1,5.0,71.0,ok,3.0,ok,660000.0,660000.0,ok,False,2026-09-23,ok,,1.0,enbek.kz,,1,False,False,,False
+C1364,F,44.0,1.0,ok,False,False,True,True,True,False,False,B2,4.0,58.0,ok,4.0,ok,440000.0,590000.0,ok,False,2026-09-03,ok,,0.0,hh.kz,,1,False,False,,False
+C1365,M,34.0,3.0,ok,False,False,False,False,True,False,False,B1*,3.5,60.0,ok,5.0,ok,660000.0,660000.0,ok,False,2026-10-02,ok,,0.0,career fair,,1,False,False,,False
+C1366,F,43.0,2.0,ok,False,True,False,True,False,False,False,B1*,3.5,77.0,ok,4.0,ok,440000.0,440000.0,ok,False,2026-10-17,ok,,1.0,enbek.kz,,1,False,False,,False
+C1367,M,34.0,11.0,ok,False,False,True,True,True,False,False,B2,4.0,57.0,ok,3.0,ok,1230000.0,1230000.0,ok,False,2026-09-13,ok,,0.0,referral,,1,False,False,,False
+C1368,M,33.0,1.0,ok,False,False,False,False,True,False,False,B1,3.0,59.0,ok,2.0,ok,539000.0,539000.0,ok,True,2026-10-15,ok,армия,0.0,linkedin,,1,False,False,,False
+C1369,M,38.0,7.0,ok,True,False,False,False,False,False,True,B1*,3.5,67.0,ok,2.0,ok,930000.0,930000.0,ok,False,2026-09-05,ok,,1.0,career fair,,1,False,False,,False
+C1370,M,26.0,1.5,ok,False,True,True,False,False,False,False,B1*,3.5,62.0,ok,4.0,ok,540000.0,540000.0,ok,False,2026-09-15,ok,учеба за границей,0.0,referral,,1,False,False,,False
+C1371,F,36.0,7.0,ok,True,False,False,True,True,False,True,C1,5.0,73.0,ok,4.0,ok,770000.0,770000.0,ok,False,2026-09-15,ok,учеба за границей,1.0,enbek.kz,,1,False,False,,False
+C1372,M,25.0,2.0,ok,False,True,False,True,False,False,False,B2,4.0,,missing,3.0,ok,570000.0,570000.0,ok,False,2026-10-08,ok(resolved by application window),,1.0,hh.kz,,1,False,False,,False
+C1373,M,23.0,1.0,ok,False,False,False,False,True,False,False,B2,4.0,68.0,ok,4.0,ok,,,negotiable,False,2026-09-22,ok,,0.0,enbek.kz,,2,False,False,,False
+C1374,unknown,,0.0,ok,False,False,False,False,True,False,False,B1*,3.5,,missing,,missing,440000.0,440000.0,ok,False,2026-09-15,ok,,0.0,linkedin,,1,False,False,,False
+C1375,M,44.0,3.0,ok,False,False,True,False,True,False,False,B1*,3.5,60.0,ok,3.0,ok,750000.0,750000.0,ok,False,2026-09-16,ok,,0.0,instagram,,2,False,False,,False
+C1376,M,46.0,5.0,ok,False,False,True,True,False,False,False,B2,4.0,,missing,,missing,774500.0,774500.0,ok,True,2026-10-02,ok,армия,0.0,linkedin,уже прошел финал,1,False,False,,False
+C1377,F,22.0,0.0,ok,False,False,False,True,False,False,False,B2,4.0,,missing,3.0,ok,420000.0,420000.0,ok,False,2026-10-05,ok,gap 2021,0.0,referral,,1,False,False,,False
+C1378,unknown,28.0,3.0,ok,True,True,False,True,True,False,True,B1,3.0,69.0,ok,3.0,ok,520000.0,670000.0,ok,False,2026-09-14,ok,gap 2021,,referral,,1,False,False,,False
+C1379,unknown,45.0,3.0,ok,False,False,False,True,False,False,False,C1,5.0,81.0,ok,5.0,qualitative,550000.0,550000.0,ok,False,2026-10-14,ok,,0.0,hh.kz,,2,False,False,,False
+C1380,M,27.0,6.0,ok,True,False,False,False,True,False,True,A2,2.0,85.0,ok,5.0,ok,770000.0,770000.0,ok,False,2026-10-09,ambiguous(dd/mm assumed),декрет 2022-2023,0.0,career fair,,1,False,False,,False
+C1381,M,29.0,0.0,ok,True,False,False,True,True,False,True,A2,2.0,60.0,ok,,missing,382500.0,382500.0,ok,True,2026-09-18,ok,,,referral,,2,False,False,,False
+C1382,F,37.0,0.0,ok,False,False,False,True,True,False,False,A2,2.0,61.0,ok,4.0,ok,550000.0,550000.0,ok,False,2026-10-11,ok(resolved by application window),,0.0,hh.kz,,1,False,False,,False
+C1383,F,34.0,4.0,ok,True,False,False,True,True,False,True,C1,5.0,24.0,ok,3.0,ok,830000.0,830000.0,ok,False,2026-09-22,ok,декрет,,hh.kz,,1,False,False,,False
+C1384,F,40.0,2.0,ok,False,False,True,True,True,False,False,B1*,3.5,25.0,ok,1.0,ok,,,negotiable,False,2026-10-03,ok,декрет 2022-2023,0.0,hh.kz,,1,False,False,,False
+C1386,F,32.0,7.0,ok,False,False,True,False,False,False,False,B1,3.0,,missing,4.0,ok,,,negotiable,False,2026-09-14,ok,болезнь,0.0,hh.kz,,1,False,False,,False
+C1387,M,26.0,4.0,ok,False,False,False,True,True,False,False,B1,3.0,63.0,ok,3.0,ok,,,negotiable,False,2026-10-02,ok,армия,0.0,linkedin,,1,False,False,,False
+C1388,unknown,33.0,10.0,ok,False,False,False,False,True,False,False,B1*,3.5,56.0,ok,3.0,ok,1050000.0,1050000.0,ok,False,2026-09-27,ok,декрет,0.0,telegram,см. вложение,2,False,False,,False
+C1389,F,35.0,3.0,ok,False,False,False,True,False,False,False,B2,4.0,55.0,ok,3.0,ok,580000.0,580000.0,ok,False,2026-09-10,ok,декрет 2023-2024,0.0,referral,,1,True,False,,False
+C1390,M,21.0,1.0,ok,False,False,False,True,True,False,False,A2,2.0,78.0,ok,5.0,ok,370000.0,370000.0,ok,False,2026-09-08,ok,,1.0,enbek.kz,,1,False,False,,False
+C1391,F,38.0,2.0,ok,False,False,False,False,False,False,False,C1,5.0,96.0,ok,5.0,ok,540000.0,540000.0,ok,False,2026-09-30,ok,,0.0,telegram,,1,False,False,,False
+C1392,M,44.0,12.0,ok,True,False,True,False,True,False,True,B1*,3.5,62.0,ok,3.0,ok,1170000.0,1170000.0,ok,False,2026-09-29,ok,,0.0,career fair,,1,False,False,,False
+C1393,M,29.0,2.0,ok,False,False,False,False,True,False,False,A2,2.0,49.0,ok,,missing,530000.0,530000.0,ok,False,2026-09-09,ok,,0.0,company site,,1,True,False,,False
+C1394,M,40.0,3.0,ok,True,False,False,False,True,False,True,C1,5.0,,missing,,missing,600000.0,600000.0,ok,False,2026-10-11,ok,,0.0,linkedin,см. вложение,2,False,False,,False
+C1395,M,35.0,1.0,ok,False,False,True,True,True,False,False,A2,2.0,49.0,ok,2.0,ok,350000.0,350000.0,ok,False,2026-09-20,ok,учеба за границей,0.0,career fair,см. вложение,2,False,False,,False
+C1396,M,26.0,4.0,ok,True,True,True,False,False,False,True,C1,5.0,73.0,ok,,missing,650000.0,650000.0,ok,False,2026-09-28,ok,,0.0,career fair,,2,False,False,,False
+C1397,M,28.0,2.0,ok,False,True,True,True,True,False,False,C1,5.0,82.0,ok,4.0,ok,570000.0,570000.0,ok,False,2026-09-08,ok,,0.0,referral,,1,False,False,,False
+C1398,M,24.0,1.0,ok,False,False,False,True,True,False,False,B2,4.0,65.0,ok,4.0,ok,,,negotiable,False,2026-09-16,ok,,0.0,linkedin,,1,False,False,,False
+C1399,F,40.0,4.0,ok,False,False,False,True,False,False,False,B2,4.0,69.0,ok,3.0,ok,670000.0,670000.0,ok,False,2026-10-20,ok,учеба за границей,0.0,linkedin,,1,False,False,,False
+C1400,F,,2.5,ok,False,True,False,False,True,False,False,B2,4.0,63.0,ok,3.0,ok,530000.0,530000.0,ok,False,2026-09-30,ok,,0.0,enbek.kz,,1,False,False,,False
+C1401,F,38.0,1.0,ok,False,False,True,True,True,False,False,B1*,3.5,38.0,ok,,missing,450000.0,450000.0,ok,False,2026-09-06,ok,,0.0,linkedin,,2,False,False,,False
+C1402,M,22.0,2.0,ok,False,False,True,False,True,False,False,B2,4.0,40.0,ok,2.0,ok,,,negotiable,False,2026-09-27,ok,декрет 2022-2023,,instagram,,1,False,False,,False
+C1403,F,30.0,8.0,ok,False,False,True,True,True,False,False,B1,3.0,52.0,ok,4.0,qualitative,,,negotiable,False,2026-09-02,ok,,0.0,hh.kz,,1,False,False,,False
+C1404,F,35.0,12.0,ok,False,False,True,False,True,False,False,C1,5.0,59.0,ok,4.0,ok,,,negotiable,False,2026-09-27,ok,maternity leave 2022,,hh.kz,см. вложение,2,False,False,,False
+C1405,F,42.0,7.5,ok,False,False,False,True,False,False,False,B1*,3.5,55.0,ok,4.0,ok,960000.0,960000.0,ok,False,2026-10-16,ok,,0.0,referral,,2,False,False,,False
+C1406,F,44.0,0.0,ok,False,False,False,True,True,False,False,A2,2.0,84.0,ok,4.0,ok,370000.0,370000.0,ok,False,2026-09-13,ok,декрет 2023-2024,0.0,telegram,,1,False,False,,False
+C1407,M,43.0,7.0,ok,False,False,False,False,False,False,False,B1*,3.5,66.0,ok,2.0,ok,790000.0,940000.0,ok,False,2026-09-17,ok,,1.0,enbek.kz,см. вложение,2,False,False,,False
+C1408,F,30.0,2.0,ok,False,True,False,True,True,False,False,B2,4.0,74.0,ok,3.0,ok,540000.0,540000.0,ok,False,2026-09-16,ok,gap 2021,0.0,referral,,2,False,False,,False
+C1409,F,,6.0,ok,False,True,False,False,False,False,False,B1*,3.5,46.0,ok,3.0,ok,860000.0,860000.0,ok,False,2026-10-15,ok,армия,0.0,career fair,,1,False,False,,False
+C1410,M,45.0,12.0,ok,False,True,True,False,False,False,False,B2,4.0,58.0,ok,,missing,1150000.0,1150000.0,ok,False,2026-09-07,ok,travel 1 yr,1.0,linkedin,,2,False,False,,False
+C1411,M,42.0,8.0,ok,True,False,False,True,True,False,True,,,50.0,ok,3.0,ok,1030000.0,1030000.0,ok,False,2026-09-23,ok,,1.0,hh.kz,,2,False,False,,False
+C1412,M,36.0,0.0,ok,False,False,False,False,True,False,False,,,68.0,ok,4.0,ok,330000.0,330000.0,ok,False,2026-10-20,ok,gap 2021,0.0,linkedin,,1,False,False,,False
+C1414,F,28.0,4.0,ok,False,False,False,True,False,False,False,A2,2.0,98.0,ok,,missing,630000.0,630000.0,ok,False,2026-10-12,ok(resolved by application window),travel 1 yr,0.0,career fair,,2,False,False,,False
+C1415,F,22.0,1.0,ok,False,False,True,False,False,False,False,B1*,3.5,77.0,ok,3.0,ok,360000.0,360000.0,ok,False,2026-09-17,ok,учеба за границей,0.0,enbek.kz,,2,False,False,,False
+C1416,M,36.0,3.0,ok,False,False,True,False,True,False,False,C1,5.0,46.0,ok,2.0,ok,590000.0,590000.0,ok,False,2026-10-12,ok,travel 1 yr,0.0,career fair,,1,False,False,,False
+C1417,F,,4.0,ok,False,False,False,True,True,False,False,B1*,3.5,,missing,3.0,qualitative,680000.0,680000.0,ok,False,2026-09-15,ok,,0.0,instagram,,1,False,False,,False
+C1418,M,42.0,3.5,ok,False,False,False,False,True,False,False,C1,5.0,52.0,ok,3.0,ok,610000.0,610000.0,ok,False,2026-10-07,ok,,0.0,referral,см. вложение,2,False,False,,False
+C1419,F,31.0,2.0,ok,False,False,True,True,True,False,False,B2,4.0,46.0,ok,2.0,ok,470000.0,470000.0,ok,False,2026-09-01,ok,декрет 2022-2023,1.0,linkedin,,1,False,False,,False
+C1420,M,31.0,1.0,ok,False,False,False,False,False,False,False,B2,4.0,60.0,ok,3.0,ok,340000.0,340000.0,ok,False,2026-10-14,ok,декрет 2022-2023,0.0,linkedin,,1,False,False,,False
+C1421,M,40.0,2.0,ok,False,False,False,True,False,False,False,B2,4.0,21.0,ok,1.0,ok,550000.0,550000.0,ok,False,2026-10-20,ok,,0.0,telegram,,2,False,False,,False
+C1422,F,43.0,6.0,ok,False,False,True,False,True,False,False,B2,4.0,53.0,ok,3.0,ok,700000.0,700000.0,ok,False,2026-09-29,ok,,1.0,linkedin,,1,False,False,,False
+C1423,M,37.0,8.0,ok,True,False,True,False,True,False,True,C2,6.0,71.0,ok,4.0,ok,1000000.0,1000000.0,ok,False,2026-09-26,ok,армия,1.0,linkedin,,1,False,False,,False
+C1424,unknown,35.0,7.0,ok,False,False,False,False,True,False,False,B2,4.0,86.0,ok,4.0,ok,1000000.0,1000000.0,ok,False,2026-09-18,ok,,1.0,telegram,,2,False,False,,False
+C1425,M,29.0,4.0,ok,False,False,False,False,False,False,False,B1*,3.5,,missing,,missing,630000.0,630000.0,ok,False,2026-09-13,ok,travel 1 yr,0.0,referral,,1,False,False,,False
+C1426,M,41.0,1.0,ok,True,False,True,True,False,False,True,,,62.0,ok,4.0,ok,500000.0,500000.0,ok,False,2026-09-29,ok,,0.0,linkedin,,1,False,False,,False
+C1427,F,36.0,3.0,ok,False,False,False,True,True,False,False,B2,4.0,,missing,3.0,ok,620000.0,620000.0,ok,False,2026-10-14,ok,болезнь,0.0,referral,,1,True,False,,False
+C1428,F,44.0,4.0,ok,False,False,True,True,True,False,False,B2,4.0,82.0,ok,4.0,qualitative,600000.0,600000.0,ok,False,2026-09-01,ok,учеба за границей,0.0,hh.kz,,2,False,False,,False
+C1429,M,34.0,3.0,ok,False,False,True,True,False,False,False,B2,4.0,54.0,ok,,missing,750000.0,750000.0,ok,False,2026-09-07,ok(resolved by application window),,0.0,enbek.kz,,1,False,False,,False
+C1430,M,39.0,2.0,ok,False,False,False,False,True,False,False,A2,2.0,68.0,ok,4.0,qualitative,520000.0,520000.0,ok,False,2026-10-08,ok,gap 2021,0.0,telegram,,1,False,False,,False
+C1431,M,31.0,10.0,ok,False,False,True,False,False,False,False,C1,5.0,,missing,5.0,ok,1160000.0,1160000.0,ok,False,2026-09-26,ok,travel 1 yr,1.0,referral,,2,False,False,,False
+C1432,F,27.0,0.0,ok,False,False,False,False,False,False,False,C1,5.0,63.0,ok,3.0,ok,390000.0,390000.0,ok,False,2026-09-13,ok,gap 2021,1.0,company site,,1,False,False,,False
+C1432-B,F,27.0,6.5,ok,False,False,True,True,False,False,False,C1,5.0,84.0,ok,,missing,850000.0,850000.0,ok,False,2026-09-15,ok,maternity leave 2022,0.0,referral,,1,False,False,,False
+C1433,M,23.0,1.0,ok,False,False,False,False,False,False,False,B1*,3.5,,missing,5.0,ok,480000.0,480000.0,ok,False,2026-10-05,ok(resolved by application window),учеба за границей,0.0,referral,,2,False,False,,False
+C1434,M,30.0,4.5,ok,False,False,True,False,False,False,False,B2,4.0,50.0,ok,4.0,ok,,,negotiable,False,2026-09-24,ok,,0.0,hh.kz,,1,False,False,,False
+C1435,M,,3.0,ok,False,False,True,False,False,False,False,B1,3.0,,missing,2.0,ok,680000.0,680000.0,ok,False,2026-09-26,ok,декрет 2022-2023,0.0,telegram,"см. письмо от 12.10
+perezvonit'",1,False,False,,False
+C1436,M,38.0,0.0,ok,False,True,False,True,True,False,False,B1*,3.5,56.0,ok,,missing,440000.0,440000.0,ok,False,2026-10-21,ok,армия,1.0,company site,,1,False,False,,False
+C1437,F,30.0,3.0,ok,False,False,False,False,False,False,False,B1*,3.5,71.0,ok,4.0,qualitative,559000.0,559000.0,ok,True,2026-10-03,ok(resolved by application window),учеба за границей,0.0,linkedin,см. вложение,2,False,False,,False
+C1438,F,37.0,1.0,ok,False,False,False,True,True,False,False,B1*,3.5,86.0,ok,4.0,ok,410000.0,410000.0,ok,False,2026-09-23,ok,учеба за границей,0.0,instagram,,1,False,False,,False
+C1439,M,,3.0,ok,False,False,False,False,True,False,False,B1*,3.5,83.0,ok,5.0,ok,627500.0,627500.0,ok,True,2026-09-05,ok,,1.0,hh.kz,,1,False,False,,False
+C1440,M,32.0,3.0,ok,False,True,False,True,True,False,False,B2,4.0,,missing,2.0,ok,620000.0,620000.0,ok,False,2026-10-01,ok(resolved by application window),,0.0,linkedin,,1,False,False,,False
+C1441,F,36.0,2.5,ok,False,False,False,False,False,False,False,C1,5.0,75.0,ok,,missing,510000.0,510000.0,ok,True,2026-09-10,ok,,1.0,enbek.kz,,1,False,False,,False
+C1442,M,34.0,0.0,ok,False,False,False,True,False,False,False,B1*,3.5,,missing,3.0,ok,430000.0,430000.0,ok,False,2026-10-15,ok,gap 2021,,telegram,,2,False,False,,False
+C1443,M,40.0,1.0,ok,False,True,True,True,False,False,False,A2,2.0,53.0,ok,2.0,ok,500000.0,500000.0,ok,False,2026-10-21,ok,,1.0,referral,,1,False,False,,False
+C1444,F,39.0,1.0,ok,False,False,True,True,False,False,False,C2,6.0,44.0,ok,2.0,ok,360000.0,360000.0,ok,False,2026-10-15,ok,,0.0,linkedin,,1,False,False,,False
+C1445,M,33.0,2.0,ok,False,False,True,False,False,False,False,B2,4.0,71.0,ok,4.0,ok,610000.0,610000.0,ok,False,2026-09-14,ok,декрет 2022-2023,0.0,telegram,,2,False,False,,False
+C1446,M,27.0,4.0,ok,False,False,True,False,False,False,False,B1*,3.5,77.0,ok,5.0,ok,760000.0,760000.0,ok,False,2026-10-11,ok,,0.0,linkedin,,2,False,False,,False
+C1447,M,22.0,0.0,ok,False,False,False,False,False,False,False,C1,5.0,31.0,ok,2.0,ok,304000.0,304000.0,ok,True,2026-10-07,ok(resolved by application window),,0.0,hh.kz,,1,False,False,,False
+C1448,F,28.0,1.0,ok,True,True,False,False,True,False,True,C1,5.0,59.0,ok,4.0,ok,390000.0,390000.0,ok,False,2026-09-17,ok,декрет 2022-2023,1.0,career fair,,1,False,False,,False
+C1449,M,32.0,7.0,ok,False,False,True,True,True,False,False,B2,4.0,,missing,5.0,ok,810000.0,810000.0,ok,False,2026-09-11,ok(resolved by application window),,0.0,linkedin,,1,False,False,,False
+C1450,F,43.0,2.0,ok,False,False,False,False,True,False,False,B1,3.0,,missing,2.0,ok,470000.0,470000.0,ok,False,2026-09-18,ok,gap 2021,0.0,referral,,1,False,False,,False
+C1451,M,44.0,4.0,ok,False,False,False,False,True,False,False,B1*,3.5,43.0,ok,1.0,ok,804000.0,804000.0,ok,True,2026-10-20,ok,армия,0.0,company site,,1,False,False,,False
+C1452,F,34.0,5.0,ok,False,False,True,False,True,False,False,B2,4.0,,missing,2.0,ok,,,negotiable,False,2026-10-02,ok,,0.0,instagram,,1,False,False,,False
+C1453,M,28.0,2.0,ok,True,False,True,False,True,False,True,C1,5.0,32.0,ok,2.0,ok,520000.0,520000.0,ok,False,2026-10-10,ok,,0.0,linkedin,,1,False,False,,False
+C1454,F,37.0,6.0,ok,False,False,False,True,True,False,False,C1,5.0,59.0,ok,4.0,ok,870000.0,870000.0,ok,False,2026-09-21,ok,travel 1 yr,0.0,telegram,,1,False,False,,False
+C1455,F,34.0,10.0,ok,False,False,False,True,True,False,False,C1,5.0,42.0,ok,3.0,ok,990000.0,990000.0,ok,False,2026-09-03,ok,декрет 2023-2024,0.0,instagram,см. вложение,2,False,False,,False
+C1456,M,29.0,9.0,ok,True,False,True,True,True,False,True,B2,4.0,61.0,ok,3.0,ok,1000000.0,1000000.0,ok,False,2026-10-08,ok,,,hh.kz,,1,False,False,,False
+C1457,F,32.0,11.0,ok,False,False,False,False,True,False,False,B2,4.0,,missing,2.0,ok,1300000.0,1300000.0,ok,False,2026-09-07,ok,декрет 2022-2023,0.0,referral,,1,False,False,,False
+C1458,F,39.0,7.0,ok,True,False,True,True,True,False,True,C2,6.0,47.0,ok,,missing,960000.0,960000.0,ok,False,2026-09-17,ok,gap 2021,,telegram,,1,False,False,,False
+C1459,M,35.0,7.0,ok,True,True,False,False,False,False,True,B2,4.0,59.0,ok,3.0,ok,890000.0,890000.0,ok,False,2026-09-21,ok,,1.0,telegram,,1,False,False,,False
+C1460,M,43.0,,missing,False,False,True,False,True,False,False,B1*,3.5,53.0,ok,5.0,qualitative,430000.0,430000.0,ok,False,2026-10-15,ok,,0.0,referral,,1,False,False,,False
+C1461,M,36.0,1.0,ok,False,False,False,True,False,False,False,C1,5.0,87.0,ok,4.0,ok,500000.0,500000.0,ok,False,2026-09-21,ok,,,enbek.kz,,1,False,False,,False
+C1462,F,37.0,6.0,ok,False,False,True,True,False,False,False,B2,4.0,59.0,ok,4.0,ok,730000.0,730000.0,ok,False,2026-09-19,ok,,0.0,career fair,,2,False,False,,False
+C1463,F,42.0,7.0,ok,True,False,True,True,False,False,True,B2,4.0,,missing,4.0,ok,774500.0,774500.0,ok,True,2026-09-09,ok,gap 2021,,telegram,,1,False,False,,False
+C1464,M,28.0,2.0,ok,False,True,False,True,True,False,False,A2,2.0,50.0,ok,2.0,qualitative,666500.0,666500.0,ok,True,2026-09-15,ok,армия,1.0,hh.kz,,2,False,False,,False
+C1465,F,39.0,1.0,ok,True,False,False,True,True,False,True,C1,5.0,38.0,ok,3.0,ok,,,negotiable,False,2026-09-08,ok,декрет,0.0,enbek.kz,,1,False,False,,False
+C1466,F,32.0,5.0,ok,False,False,True,False,False,False,False,B2,4.0,88.0,ok,5.0,ok,650000.0,650000.0,ok,False,2026-10-12,ok(resolved by application window),,0.0,telegram,blacklist,1,False,False,,False
+C1467,F,42.0,1.5,ok,True,False,False,True,True,False,True,A2,2.0,65.0,ok,3.0,ok,420000.0,420000.0,ok,False,2026-09-04,ok(resolved by application window),,1.0,instagram,рекомендован директором,1,False,False,,False
+C1468,M,25.0,2.0,ok,False,True,True,False,True,False,False,B2,4.0,74.0,ok,3.0,ok,410000.0,410000.0,ok,False,2026-10-17,ok,болезнь,1.0,company site,offer sent?,1,False,False,,False
+C1469,M,42.0,0.0,ok,False,False,True,True,True,False,False,C1,5.0,66.0,ok,5.0,ok,284500.0,284500.0,ok,True,2026-09-19,ok,,0.0,referral,см. вложение,2,False,False,,False
+C1470,F,29.0,3.0,ok,True,False,False,True,False,False,True,A2,2.0,83.0,ok,4.0,ok,580000.0,580000.0,ok,False,2026-09-22,ok,,0.0,hh.kz,,1,False,False,,False
+C1471,F,40.0,6.0,ok,False,True,False,True,True,False,False,B2,4.0,73.0,ok,4.0,ok,750000.0,750000.0,ok,False,2026-09-29,ok,учеба за границей,0.0,career fair,,1,False,False,,False
+C1472,F,44.0,5.0,ok,False,True,False,True,True,False,False,C1,5.0,10.0,ok,1.0,ok,813500.0,813500.0,ok,True,2026-10-06,ok,армия,1.0,linkedin,,2,False,False,,False
+C1473,F,36.0,3.0,ok,False,False,False,True,True,False,False,B1*,3.5,74.0,ok,,missing,490000.0,490000.0,ok,False,2026-09-23,ok,армия,1.0,instagram,,1,False,False,,False
+C1474,F,43.0,8.0,ok,False,False,False,True,False,False,False,B2,4.0,79.0,ok,4.0,ok,862500.0,862500.0,ok,True,2026-09-09,ok,gap 2021,0.0,career fair,,1,False,False,,False
+C1475,M,32.0,10.0,ok,False,False,True,False,True,False,False,C1,5.0,44.0,ok,3.0,ok,1160000.0,1160000.0,ok,False,2026-09-11,ok,армия,1.0,career fair,,2,True,False,,False
+C1476,M,39.0,10.0,ok,False,True,True,True,True,False,False,B2,4.0,33.0,ok,3.0,ok,,,negotiable,False,2026-09-07,ok,болезнь,1.0,linkedin,,1,False,False,,False
+C1477,F,30.0,1.0,ok,False,False,True,False,True,False,False,B2,4.0,65.0,ok,4.0,ok,390000.0,390000.0,ok,False,2026-10-11,ok,,0.0,instagram,,2,False,False,,False
+C1478,M,36.0,3.0,ok,False,False,False,False,True,False,False,B2,4.0,84.0,ok,4.0,ok,590000.0,740000.0,ok,False,2026-09-15,ok,,1.0,referral,,2,False,False,,False
+C1479,M,44.0,1.5,ok,True,False,True,True,False,False,True,A2,2.0,53.0,ok,,missing,430000.0,430000.0,ok,False,2026-10-06,ok,,1.0,hh.kz,,1,False,False,,False
+C1480,M,29.0,4.0,ok,False,True,True,False,True,False,False,C1,5.0,36.0,ok,,missing,750000.0,750000.0,ok,False,2026-10-14,ok,учеба за границей,0.0,linkedin,,2,False,False,,False
+C1481,F,45.0,0.0,ok,True,True,True,True,True,False,True,B2,4.0,27.0,ok,2.0,ok,323500.0,323500.0,ok,True,2026-10-21,ok,,0.0,linkedin,,1,False,False,,False
+C1482,F,44.0,1.0,ok,False,True,True,True,False,False,False,A2,2.0,75.0,ok,5.0,ok,630000.0,630000.0,ok,False,2026-10-17,ok,декрет,0.0,company site,,2,False,False,,False
+C1483,F,32.0,3.0,ok,False,False,False,False,False,False,False,B1*,3.5,42.0,ok,3.0,qualitative,670000.0,670000.0,ok,False,2026-10-19,ok,travel 1 yr,1.0,hh.kz,,1,False,False,,False
+C1484,M,32.0,1.0,ok,False,False,False,True,True,False,False,C1,5.0,,missing,4.0,ok,410000.0,560000.0,ok,False,2026-10-03,ok,travel 1 yr,0.0,career fair,,1,False,False,,False
+C1485,unknown,30.0,0.0,ok,True,True,False,True,True,False,True,B2,4.0,46.0,ok,2.0,ok,310000.0,310000.0,ok,False,2026-10-19,ok,декрет,0.0,linkedin,,1,False,False,,False
+C1486,M,42.0,8.0,ok,False,False,False,False,False,False,False,B2,4.0,61.0,ok,,missing,910000.0,910000.0,ok,False,2026-09-27,ok,декрет 2022-2023,0.0,referral,см. вложение,2,False,False,,False
+C1487,F,32.0,0.0,ok,False,False,False,False,True,False,False,C1,5.0,74.0,ok,4.0,ok,470000.0,470000.0,ok,False,2026-09-27,ok,болезнь,1.0,hh.kz,,2,False,False,,False
+C1496,F,40.0,0.0,ok,False,True,False,True,False,False,False,B2,4.0,78.0,ok,4.0,ok,440000.0,440000.0,ok,False,2026-10-20,ok,travel 1 yr,0.0,telegram,,2,True,False,,False
+C1497,M,40.0,12.0,ok,True,False,False,False,True,False,True,C1,5.0,75.0,ok,3.0,ok,1200000.0,1200000.0,ok,False,2026-10-20,ok,,1.0,enbek.kz,,1,True,False,,False
+C1498,M,32.0,11.0,ok,False,False,True,False,False,False,False,B2,4.0,77.0,ok,3.0,ok,1080000.0,1080000.0,ok,False,2026-10-20,ok,gap 2021,1.0,linkedin,,1,True,False,,False
+C1499,M,43.0,7.0,ok,True,False,False,False,False,False,True,,,64.0,ok,,missing,930000.0,930000.0,ok,False,2026-10-20,ok,,1.0,linkedin,,2,True,False,,False
